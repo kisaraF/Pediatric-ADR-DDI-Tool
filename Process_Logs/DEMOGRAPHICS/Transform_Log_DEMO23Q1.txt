@@ -1,0 +1,60 @@
+Data/DEMO_FILES/DEMO23Q1.txt imported at: 2025-02-02 22:32:08
+Attributes filtered from raw file at: 2025-02-02 22:32:08
+
+Pediatric population filtered at: 2025-02-02 22:32:08 | 21117 records preserved
+
+Age Check 01 filtered at: 2025-02-02 22:32:08 | 21117 records preserved
+
+Age Check 02 filtered at: 2025-02-02 22:32:08 | 21117 records preserved
+
+Age Check 03 filtered at: 2025-02-02 22:32:08 | 21116 records preserved
+
+DEC age codes removed at: 2025-02-02 22:32:08 | 18731 records preserved
+
+Ages converted to year standard at: 2025-02-02 22:32:08 | Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+       'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
+       'occr_country', 'age_yrs'],
+      dtype='object')
+
+Ages binned at: 2025-02-02 22:32:08 | Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+       'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
+       'occr_country', 'age_yrs', 'age_bin'],
+      dtype='object')
+
+First wave of NA_VAL removed at: 2025-02-02 22:32:08 |  15266 records preserved
+
+Second wave of NA_VAL removed at: 2025-02-02 22:32:08 |  15266 records preserved
+
+Ages normalized at: 2025-02-02 22:32:08 | Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+       'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
+       'occr_country', 'age_yrs', 'age_bin', 'age_norm'],
+      dtype='object')
+
+Missing gender values removed at: 2025-02-02 22:32:08 |  14615 records preserved
+
+Origin country added at: 2025-02-02 22:32:08 |  Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+       'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
+       'occr_country', 'age_yrs', 'age_bin', 'age_norm', 'Origin_country'],
+      dtype='object')
+
+Missing origin values removed at: 2025-02-02 22:32:08 |  14588 records preserved
+
+Weights converted to KG at: 2025-02-02 22:32:08 |  Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+       'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
+       'occr_country', 'age_yrs', 'age_bin', 'age_norm', 'Origin_country',
+       'wt_kg'],
+      dtype='object')
+
+Weight Check 01 happened at: 2025-02-02 22:32:08 |  14588 records preserved
+
+Weight Check 02 (Outliers) happened at: 2025-02-02 22:32:08 |  Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+       'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
+       'occr_country', 'age_yrs', 'age_bin', 'age_norm', 'Origin_country',
+       'wt_kg', 'Valid_Wt'],
+      dtype='object')
+
+Weight Check 03 (outlier removal) happened at: 2025-02-02 22:32:08 |  14588 records preserved
+
+Final Transformed Layer selected at: 2025-02-02 22:32:08 |  13507 records preserved
+
+Successfully exported to Data/Transformed/DEMO23Q1_TRANSFORMED.csv at: 2025-02-02 22:32:08
