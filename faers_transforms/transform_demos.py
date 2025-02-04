@@ -51,9 +51,9 @@ def TransformDemos(file_path, out_path):
     demo_pedi_raw_2_copy = demo_transform_funcs.rmNA_VALbins_2(demo_pedi_raw_2_copy)
     na_val_rm_log_2 = f'\nSecond wave of NA_VAL removed at: {now.format('YYYY-MM-DD HH:mm:ss')} |  {len(demo_pedi_raw_2_copy)} records preserved\n'
 
-    #Step 11: Apply the min-max scaler
-    demo_pedi_raw_3 = demo_transform_funcs.normalizeAges(demo_pedi_raw_2_copy)
-    age_norm_log = f'\nAges normalized at: {now.format('YYYY-MM-DD HH:mm:ss')} | Columns: {demo_pedi_raw_3.columns}\n'
+    # #Step 11: Apply the min-max scaler
+    # demo_pedi_raw_3 = demo_transform_funcs.normalizeAges(demo_pedi_raw_2_copy)
+    # age_norm_log = f'\nAges normalized at: {now.format('YYYY-MM-DD HH:mm:ss')} | Columns: {demo_pedi_raw_3.columns}\n'
 
     #Step 12: Remove all gender values that are missing
     demo_pedi_raw_4 = demo_transform_funcs.dropMissingSex(demo_pedi_raw_3)
@@ -93,7 +93,7 @@ def TransformDemos(file_path, out_path):
 
     log_entries = [import_log,attribute_filter_log, pedi_filter_log, age_filter_1_log, age_filter_2_log, 
                age_filter_3_log, dec_rm_log, age_conv_log, age_bins_log, na_val_rm_log, na_val_rm_log_2, 
-               age_norm_log, rm_missing_sex_log, fix_country_log, rm_missing_origin_log, wt_conv_log, 
+               rm_missing_sex_log, fix_country_log, rm_missing_origin_log, wt_conv_log, 
                wtcheck01_log, wtcheck02_log, wtcheck03_log, final_layer_log, export_msg]
     
     log_name = f'Process_Logs/DEMOGRAPHICS/Transform_Log_{file_path[-12:][:8]}.txt'

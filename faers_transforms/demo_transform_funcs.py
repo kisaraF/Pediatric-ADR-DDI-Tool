@@ -1,10 +1,6 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import MinMaxScaler
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-# %matplotlib inline
-
+#from sklearn.preprocessing import MinMaxScaler
 
 #Import the csv file
 def importFile(file_path):
@@ -112,11 +108,11 @@ def rmNA_VALbins_2(df):
    return df
 
 #Step 11: Apply the min-max scaler
-scaler = MinMaxScaler(feature_range=(0, 1)) #Instantiate the scaler first
+# scaler = MinMaxScaler(feature_range=(0, 1)) #Instantiate the scaler first
 
-def normalizeAges(df):
-   df['age_norm'] = scaler.fit_transform(df[['age']])
-   return df
+# def normalizeAges(df):
+#    df['age_norm'] = scaler.fit_transform(df[['age']])
+#    return df
 
 #Step 12: Remove all gender values that are missing
 def dropMissingSex(df):

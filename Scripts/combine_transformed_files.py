@@ -31,7 +31,9 @@ def combineFiles(f_path):
     return combined_df
 
 def removeDuplicates(df):
+    #When removing duplicates, the latest case should be selected
     sorted_df = df.sort_values(by=['caseid', 'fda_dt'], ascending = [True,False])
+    #Grouping each case id, sorting by the latest date and assigning a rank
     sorted_df['rnk'] = sorted_df.groupby('caseid')['fda_dt'].rank(method='first', ascending = False)
     master_df = sorted_df[sorted_df['rnk'] == 1] #Select only the latest records
     
