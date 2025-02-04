@@ -20,18 +20,24 @@ def combineFiles(f_path):
     df_ls = [pd.read_csv(i) for i in files]
     combined_df = pd.concat(df_ls, ignore_index= True)
 
-    print(f'Total Number of Lines before removing duplicates: {len(combined_df)}')
+    print(f'Total Number of Lines before removing duplicates: {len(combined_df)}\n')
 
-    #Export the duplicated one just to double check
-    combined_df.to_csv('combined_df.csv', index=False)
+    prompt = input('Would you like to save a copy of the duplicates? (Y/N) ')
 
+    if prompt.upper() == 'Y':
+        #Export the duplicated one just to double check
+        combined_df.to_csv('combined_df.csv', index=False)
+    
     return combined_df
 
 def removeDuplicates(df):
-    clean_df = df.drop_duplicates(subset=['caseid'])
-    clean_df.to_csv('Data/Transformed/DEMO_MASTER.csv', index=False)
+    sorted_df = df.sort_values(by=['caseid', 'fda_dt'], ascending = [True,False])
+    sorted_df['rnk'] = sorted_df.groupby('caseid')['fda_dt'].rank(method='first', ascending = False)
+    master_df = sorted_df[sorted_df['rnk'] == 1] #Select only the latest records
     
-    print(f'Total number of rows after removing duplicates: {len(clean_df)}')
+    master_df.to_csv('Data/Transformed/DEMO_MASTER.csv', index=False)
+    
+    print(f'\nTotal number of rows after removing duplicates: {len(master_df)}')
 
 #Execute Functions
 combined_file = combineFiles(file_path)
