@@ -100,5 +100,5 @@ python predict_missing_values_demog.py
 ```
 
 ## <a name= "access"></a>Accessing Raw Data
-* FDA quarterly publications – <a  href='https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html', target='_blank'>link</a>
-* Quick access (saves hassle of unzipping and selecting each file) - <a  href='https://drive.google.com/drive/folders/1g561wpNAcK3QvFaqeqVWhvjjKbEaoZU3?usp=drive_link', target='_blank'>link</a>
+* FDA quarterly publications – <a href='https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html'>link</a>
+* Quick access (saves hassle of unzipping and selecting each file) - <a href='https://drive.google.com/drive/folders/1g561wpNAcK3QvFaqeqVWhvjjKbEaoZU3?usp=drive_link'>link</a>
