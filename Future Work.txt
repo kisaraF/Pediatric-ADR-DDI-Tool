@@ -1,0 +1,4 @@
+Future work to do:
+
+1. Rework on training missing value predictions model by training 2-3 models based on the propotions of each age bin
+2. Pre-process other 3 entities and create the combined dataset for association rule mining

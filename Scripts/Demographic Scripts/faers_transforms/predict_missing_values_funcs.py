@@ -85,12 +85,13 @@ def readyDF(df):
 #Selecting features for model training
 def featureSelection(df):
     df = df[['age_norm', 'age_bin_enc', 'gender_enc', 'origin_country_enc']]
+    #df = df[['age_norm', 'age_bin_enc', 'gender_enc']] #Only selecting positively correlating features
     return df
 
 #Predict the missing values
 def predictArray(X):
-    xgb_model= pred_model.getModel()
-    preds = xgb_model.predict(X)
+    grb_model= pred_model.getModel()
+    preds = grb_model.predict(X)
     return preds
 
 

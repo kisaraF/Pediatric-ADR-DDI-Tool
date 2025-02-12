@@ -5,7 +5,7 @@ import pendulum
 now = pendulum.now('Asia/Colombo')
 
 #Import the transformed master which contains unique records
-file_path = 'C:\\Users\\USER\\Desktop\\FYP\\fyp-sandbox-2\\Data\\Transformed/DEMO_MASTER.csv'
+file_path = 'C:\\Users\\USER\\Desktop\\FYP\\fyp-sandbox-2\\Data\\TRANSFORMED_DATA\\DEMOGRAPHICS/DEMO_MASTER.csv'
 init_df = pd.read_csv(file_path)
 
 def doIt():
@@ -41,8 +41,9 @@ def doIt():
     log_entry_6 = f'\nEncoded country values ({now.format('YYYY-MM-DD HH:mm:ss')})\n'
     print(log_entry_6)
 
-    #Cleaning up for model training
+    #Cleaning up for model predictions
     feature_df = prm.readyDF(df_5)
+    feature_df.to_csv('temp.csv', index=False)
     log_entry_7 = f'\nCleaned up data frame for predictions ({now.format('YYYY-MM-DD HH:mm:ss')})\n'
     print(log_entry_7)
 
@@ -68,7 +69,7 @@ def doIt():
                                'sex', 'Origin_country', 'wt_kg', 'init_fda_dt', 'fda_dt']]
     
     demog_clean_df = pd.concat([predicted_df, df_complete], ignore_index=False)
-    demog_clean_df.to_csv('C:\\Users\\USER\\Desktop\\FYP\\fyp-sandbox-2\\Data\\Clean-Data/demographics.csv', index = False)
+    demog_clean_df.to_csv('C:\\Users\\USER\\Desktop\\FYP\\fyp-sandbox-2\\Data\\CLEAN_DATA/demographics.csv', index = False)
 
 doIt()
 
