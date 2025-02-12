@@ -1,0 +1,4 @@
+The raw data used for the project will be stored in a separate google drive folder as the a single file size exceeds the upload limits to the repository in a single commit.
+
+
+Link - https://drive.google.com/drive/folders/1g561wpNAcK3QvFaqeqVWhvjjKbEaoZU3?usp=drive_link
