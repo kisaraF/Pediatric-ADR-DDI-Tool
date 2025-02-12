@@ -25,7 +25,9 @@ Adverse drug reactions (ADRs) are a major concern in healthcare, especially in p
 * Government & healthcare institutions: Improved monitoring & reporting.
 
 ## <a name= "erd"></a>Data Source
-The project uses FAERS (FDA Adverse Event Reporting System) data from 2021 onwards (post-COVID) to ensure more accurate and relevant results. Data is cleaned and preprocessed for association rule mining and predictive modeling.
+The project uses FAERS (FDA Adverse Event Reporting System) data from 2021 onwards (post-COVID) to ensure more accurate and relevant results. Data is cleaned and preprocessed for association rule mining and predictive modelling.
+
+
 <img width="574" alt="Data-Source" src="https://github.com/user-attachments/assets/4e7a23d9-c8c7-4ec4-9b22-529c3744072e">
 
 ## <a name= "tech"></a>Technologies Used (So far)
@@ -37,11 +39,17 @@ The project uses FAERS (FDA Adverse Event Reporting System) data from 2021 onwar
 
 ## <a name= "ip"></a>Current Progress
 ✅ Data Exploration & Cleaning Completed
+
 ✅ Weight Imputation Model Trained & Deployed
+
 ✅ Preprocessing of Demographics Table
+
 🔲 Preprocessing of Remaining FAERS Entities- Drugs, Reactions, Outcomes (In Progress)
+
 🔲 Association Rule Mining (Upcoming)
+
 🔲 Severity Classification Model (Upcoming)
+
 🔲 Streamlit Dashboard Development (Upcoming)
 
 ## <a name= "method"></a>Methodology
@@ -73,7 +81,7 @@ First add the raw data into `Data/RAW_DATA/DEMOGRAPHICS`
 
 Then head to 
 ```
-cd Scripts/Demographic Scripts 
+cd Scripts/Demographic\ Scripts 
 ```
 
 #### Apply Transformations
@@ -92,5 +100,5 @@ python predict_missing_values_demog.py
 ```
 
 ## <a name= "access"></a>Accessing Raw Data
-* FDA quarterly publications – link
-* Quick access (saves hassle of unzipping and selecting each file) - link
+* FDA quarterly publications – <a  href='https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html'>link</a>
+* Quick access (saves hassle of unzipping and selecting each file) - <a  href='https://drive.google.com/drive/folders/1g561wpNAcK3QvFaqeqVWhvjjKbEaoZU3?usp=drive_link'>link</a>
