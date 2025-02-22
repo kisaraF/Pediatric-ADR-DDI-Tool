@@ -44,7 +44,7 @@ The project uses FAERS (FDA Adverse Event Reporting System) data from 2021 onwar
 
 ✅ Preprocessing of Demographics Table
 
-🔲 Preprocessing of Remaining FAERS Entities- Drugs, Reactions, Outcomes (In Progress)
+✅ Preprocessing of Remaining FAERS Entities- Drugs, Reactions, Outcomes
 
 🔲 Association Rule Mining (Upcoming)
 
