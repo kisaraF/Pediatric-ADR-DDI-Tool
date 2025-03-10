@@ -43,29 +43,64 @@ def doIt():
 
     #Cleaning up for model predictions
     feature_df = prm.readyDF(df_5)
-    feature_df.to_csv('temp.csv', index=False)
+    #feature_df.to_csv('temp.csv', index=False)
     log_entry_7 = f'\nCleaned up data frame for predictions ({now.format('YYYY-MM-DD HH:mm:ss')})\n'
     print(log_entry_7)
+
+#-----------------------------------------  Splitting Dataset to age groups  ----------------------------------------
+
+    #age group 1 
+    age_grp_1 = prm.df_age_grp_1(feature_df)
+    age_grp_1.to_csv('age_grp_1.csv', index=False)
+    log_entry_8 = f'\nAge group 1 splitted ({now.format('YYYY-MM-DD HH:mm:ss')})\n'
+
+    #age group 2 
+    age_grp_2 = prm.df_age_grp_2(feature_df)
+    age_grp_2.to_csv('age_grp_2.csv', index=False)
+    log_entry_9 = f'\nAge group 2 splitted ({now.format('YYYY-MM-DD HH:mm:ss')})\n'
+
+    #age group 3 
+    age_grp_3 = prm.df_age_grp_3(feature_df)
+    age_grp_3.to_csv('age_grage_grp_3.csv', index=False)
+    log_entry_10 = f'\nAge group 3 splitted ({now.format('YYYY-MM-DD HH:mm:ss')})\n'
+
 
 #-----------------------------------------  Getting Predictions  ----------------------------------------
 
     #Selecting features
-    train_ready_df = prm.featureSelection(feature_df)
+    train_ready_df_1 = prm.featureSelection(age_grp_1)
+    train_ready_df_2 = prm.featureSelection(age_grp_2)
+    train_ready_df_3 = prm.featureSelection(age_grp_3)
 
     #Getting predictions
-    preds_array = prm.predictArray(train_ready_df)
-    log_entry_8 = f'\nMade predictions ({now.format('YYYY-MM-DD HH:mm:ss')})\n'
-    print(log_entry_8)
+    preds_array_1 = prm.predictArray_1(train_ready_df_1)
+    preds_array_2 = prm.predictArray_2(train_ready_df_2)
+    preds_array_3 = prm.predictArray_3(train_ready_df_3)
+    log_entry_11 = f'\nMade predictions ({now.format('YYYY-MM-DD HH:mm:ss')})\n'
+    print(log_entry_11)
 
     #Merging the predicted values to the original 
-    feature_df['wt_kg'] = preds_array
+    # train_ready_df_1['wt_kg'] = preds_array_1
+    # train_ready_df_2['wt_kg'] = preds_array_2
+    # train_ready_df_3['wt_kg'] = preds_array_3
+
+    age_grp_1['wt_kg'] = preds_array_1
+    age_grp_2['wt_kg'] = preds_array_2
+    age_grp_3['wt_kg'] = preds_array_3
+
+    #age_grp_1.to_csv('hey.csv', index=False)
+    
 
 #-----------------------------------  Merging the 2 datasets together  -----------------------------    
+
+    #merging all 3 predicted datasets together
+    predicted_master_df = pd.concat([age_grp_1, age_grp_2, age_grp_3])
+    predicted_master_df.to_csv('predict_master.csv', index=False)
     
     #Only select the columns that's needed for the merge
     df_complete = prm.completeDF(init_df)
 
-    predicted_df = feature_df[['primaryid', 'caseid', 'i_f_code', 'age_yrs', 'age_bin', 
+    predicted_df = predicted_master_df[['primaryid', 'caseid', 'i_f_code', 'age_yrs', 'age_bin', 
                                'sex', 'Origin_country', 'wt_kg', 'init_fda_dt', 'fda_dt']]
     
     demog_clean_df = pd.concat([predicted_df, df_complete], ignore_index=False)
