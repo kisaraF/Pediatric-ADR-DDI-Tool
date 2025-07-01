@@ -4,16 +4,13 @@ import json
 from typing import List
 import matplotlib.pyplot as plt
 import re
-import os
 
 # --- Load Mined Rules and Outcome Severity Data ---
 @st.cache_data
 def load_data():
-    base_path = os.path.dirname(__file__)
-    with open(os.path.join(base_path, "mined_rules_items.json"), "r") as f:
-        rules = json.load(f)
-    outcome_df = pd.read_csv(os.path.join(base_path, "outc_dis_pivot.csv"))
-    return rules, outcome_df
+    rules = json.load(open("mined_rules_items.json"))
+    outcomes_df = pd.read_csv("outc_dis_pivot.csv")
+    return rules, outcomes_df
 
 rules, outcome_df = load_data()
 
