@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\FYP\fyp-sandbox-2\Data\RAW_DATA\REACTIONS/REAC22Q1.txt imported at: 2025-02-22 10:24:16
+Selected only necessary records (Reactions): 2025-02-22 10:24:16 | 29398 records preserved
+
+Selected only necessary attributes (Reactions): 2025-02-22 10:24:16
+
+Transformed Reactions File exported at: 2025-02-22 10:24:16

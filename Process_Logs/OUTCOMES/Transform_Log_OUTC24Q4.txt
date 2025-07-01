@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\FYP\fyp-sandbox-2\Data\RAW_DATA\OUTCOMES/OUTC24Q4.txt imported at: 2025-02-22 11:38:00
+Selected only necessary records (Outcomes): 2025-02-22 11:38:00 | 10514 records preserved
+
+Selected only necessary attributes (Outcomes): 2025-02-22 11:38:00
+
+Transformed Outcomes File exported at: 2025-02-22 11:38:00

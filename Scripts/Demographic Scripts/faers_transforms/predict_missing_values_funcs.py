@@ -79,18 +79,41 @@ def readyDF(df):
                    'Origin_country', 'origin_country_enc', 'init_fda_dt', 'fda_dt']]
     return clean_df
 
+#---------------------------------  Dividing into age groups  ---------------------------------
+def df_age_grp_1(df): #teens & child
+    age_1_df = df[df['age_bin_enc'].isin([4,5])]
+    return age_1_df
+
+def df_age_grp_2(df): #pre-school & toddler
+    age_2_df = df[df['age_bin_enc'].isin([2,3])]
+    return age_2_df
+
+def df_age_grp_3(df): #neonates & infants
+    age_3_df = df[df['age_bin_enc'].isin([0,1])]
+    return age_3_df
 
 #---------------------------------  Model Predictions  ---------------------------------
 
 #Selecting features for model training
 def featureSelection(df):
     df = df[['age_norm', 'age_bin_enc', 'gender_enc', 'origin_country_enc']]
-    #df = df[['age_norm', 'age_bin_enc', 'gender_enc']] #Only selecting positively correlating features
     return df
 
-#Predict the missing values
-def predictArray(X):
-    grb_model= pred_model.getModel()
+#Predict the missing values age group 1
+def predictArray_1(X):
+    grb_model= pred_model.getModel_1()
+    preds = grb_model.predict(X)
+    return preds
+
+#Predict the missing values age group 2
+def predictArray_2(X):
+    grb_model= pred_model.getModel_2()
+    preds = grb_model.predict(X)
+    return preds
+
+#Predict the missing values age group 3
+def predictArray_3(X):
+    grb_model= pred_model.getModel_3()
     preds = grb_model.predict(X)
     return preds
 
