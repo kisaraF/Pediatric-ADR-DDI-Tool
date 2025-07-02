@@ -26,7 +26,7 @@ def combineFiles(f_path):
 combined_drugs= combineFiles(file_path)
 
 #Export the file
-combined_drugs.to_csv('C:\\Users\\USER\\Desktop\\FYP\\fyp-sandbox-2\\Data\\CLEAN_DATA/drugs_data.csv')
+combined_drugs.to_csv('C:\\Users\\USER\\Desktop\\FYP\\fyp-sandbox-2\\Data\\CLEAN_DATA/drugs_data.csv', index=False)
 
 
 # no need to remove duplicates as the primary ids selected at each transformations are unique ones

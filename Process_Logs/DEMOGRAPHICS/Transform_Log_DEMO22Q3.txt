@@ -1,58 +1,58 @@
-C:\Users\USER\Desktop\FYP\fyp-sandbox-2\Data\RAW_DATA\DEMOGRAPHICS/DEMO22Q3.txt imported at: 2025-02-12 10:59:24
-Attributes filtered from raw file at: 2025-02-12 10:59:24
+C:\Users\USER\Desktop\FYP\fyp-sandbox-2\Data\RAW_DATA\DEMOGRAPHICS/DEMO22Q3.txt imported at: 2025-02-18 21:31:21
+Attributes filtered from raw file at: 2025-02-18 21:31:21
 
-Pediatric population filtered at: 2025-02-12 10:59:24 | 17591 records preserved
+Pediatric population filtered at: 2025-02-18 21:31:21 | 17591 records preserved
 
-Age Check 01 filtered at: 2025-02-12 10:59:24 | 17591 records preserved
+Age Check 01 filtered at: 2025-02-18 21:31:21 | 17591 records preserved
 
-Age Check 02 filtered at: 2025-02-12 10:59:24 | 17591 records preserved
+Age Check 02 filtered at: 2025-02-18 21:31:21 | 17591 records preserved
 
-Age Check 03 filtered at: 2025-02-12 10:59:24 | 17587 records preserved
+Age Check 03 filtered at: 2025-02-18 21:31:21 | 17587 records preserved
 
-DEC age codes removed at: 2025-02-12 10:59:24 | 15607 records preserved
+DEC age codes removed at: 2025-02-18 21:31:21 | 15607 records preserved
 
-Ages converted to year standard at: 2025-02-12 10:59:24 | Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+Ages converted to year standard at: 2025-02-18 21:31:21 | Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
        'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
        'occr_country', 'age_yrs'],
       dtype='object')
 
-Ages binned at: 2025-02-12 10:59:24 | Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+Ages binned at: 2025-02-18 21:31:21 | Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
        'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
        'occr_country', 'age_yrs', 'age_bin'],
       dtype='object')
 
-First wave of NA_VAL removed at: 2025-02-12 10:59:24 |  13461 records preserved
+First wave of NA_VAL removed at: 2025-02-18 21:31:21 |  13461 records preserved
 
-Second wave of NA_VAL removed at: 2025-02-12 10:59:24 |  13461 records preserved
+Second wave of NA_VAL removed at: 2025-02-18 21:31:21 |  13461 records preserved
 
-Missing gender values removed at: 2025-02-12 10:59:24 |  12952 records preserved
+Missing gender values removed at: 2025-02-18 21:31:21 |  12952 records preserved
 
-Selected only M or F genders at: 2025-02-12 10:59:24
+Selected only M or F genders at: 2025-02-18 21:31:21
 
-Origin country added at: 2025-02-12 10:59:24 |  Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+Origin country added at: 2025-02-18 21:31:21 |  Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
        'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
        'occr_country', 'age_yrs', 'age_bin', 'Origin_country'],
       dtype='object')
 
-Missing origin values removed at: 2025-02-12 10:59:24 |  12898 records preserved
+Missing origin values removed at: 2025-02-18 21:31:21 |  12898 records preserved
 
-Weights converted to KG at: 2025-02-12 10:59:24 |  Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+Weights converted to KG at: 2025-02-18 21:31:21 |  Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
        'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
        'occr_country', 'age_yrs', 'age_bin', 'Origin_country', 'wt_kg'],
       dtype='object')
 
-Weight Check 01 happened at: 2025-02-12 10:59:24 |  12898 records preserved
+Weight Check 01 happened at: 2025-02-18 21:31:21 |  12898 records preserved
 
-Weight Check 02 (Outliers) happened at: 2025-02-12 10:59:24 |  Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
+Weight Check 02 (Outliers) happened at: 2025-02-18 21:31:21 |  Columns: Index(['primaryid', 'caseid', 'i_f_code', 'age', 'age_cod', 'age_grp', 'sex',
        'wt', 'wt_cod', 'init_fda_dt', 'fda_dt', 'reporter_country',
        'occr_country', 'age_yrs', 'age_bin', 'Origin_country', 'wt_kg',
        'Valid_Wt'],
       dtype='object')
 
-Weight Check 03 (outlier removal) happened at: 2025-02-12 10:59:24 |  11967 records preserved
+Weight Check 03 (outlier removal) happened at: 2025-02-18 21:31:21 |  11967 records preserved
 
-Removing ages just 0 happened at: 2025-02-12 10:59:24 |  11670 records preserved
+Removing ages just 0 happened at: 2025-02-18 21:31:21 |  11670 records preserved
 
-Final Transformed Layer selected at: 2025-02-12 10:59:24 |  10990 records preserved
+Final Transformed Layer selected at: 2025-02-18 21:31:21 |  10990 records preserved
 
-Successfully exported to C:\Users\USER\Desktop\FYP\fyp-sandbox-2\Data\TRANSFORMED_DATA\DEMOGRAPHICS/DEMO22Q3_TRANSFORMED.csv at: 2025-02-12 10:59:24
+Successfully exported to C:\Users\USER\Desktop\FYP\fyp-sandbox-2\Data\TRANSFORMED_DATA\DEMOGRAPHICS/DEMO22Q3_TRANSFORMED.csv at: 2025-02-18 21:31:21

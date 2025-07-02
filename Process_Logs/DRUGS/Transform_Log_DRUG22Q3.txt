@@ -1,0 +1,20 @@
+C:\Users\USER\Desktop\FYP\fyp-sandbox-2\Data\RAW_DATA\DRUGS/DRUG22Q3.txt imported at: 2025-02-22 07:14:24
+Attributes filtered from raw file at: 2025-02-22 07:14:24
+
+Records filtered at: 2025-02-22 07:14:24 | 1835457 records preserved
+
+Selected only necessary records: 2025-02-22 07:14:24 | 33449 records preserved
+
+Lookup_1 created at: 2025-02-22 07:14:24
+
+Lookup counts temporary table created at: 2025-02-22 07:14:24
+
+Lookup_2 created at: 2025-02-22 07:14:24
+
+Lookup_2 cleansed at: 2025-02-22 07:14:24
+
+Final lookup table created at: 2025-02-22 07:14:24
+
+This Quarter Drug File was Transformed at: 2025-02-22 07:14:24
+
+Transformed File exported at: 2025-02-22 07:14:24

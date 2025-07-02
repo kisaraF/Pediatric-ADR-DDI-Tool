@@ -1,0 +1,21 @@
+itemset,items_str,outc_ds,outc_ho,outc_lt,outc_ot,outc_ri
+itemset_1,"['drug_proactiv_md_deep_cleansing_face_wash', 'drug_proactiv_md_adapalene_acne_treatment', 'demo_sex_f', 'reaction_acne', 'drug_proactiv_md_daily_oil_control_spf_30', 'demo_age_bin_teenager', 'demo_origin_us']",0,0,0,1,0
+itemset_10,"['reaction_device_breakage', 'drug_genotropin', 'demo_sex_m', 'demo_age_bin_teenager', 'demo_origin_us']",0,2,0,14,0
+itemset_2,"['drug_proactiv_md_deep_cleansing_face_wash', 'demo_sex_f', 'reaction_acne', 'drug_proactiv_md_daily_oil_control_spf_30', 'demo_age_bin_teenager', 'demo_origin_us']",0,0,0,1,0
+itemset_29,"['reaction_device_leakage', 'demo_age_bin_child', 'demo_sex_m', 'drug_genotropin', 'demo_origin_us']",0,1,0,9,0
+itemset_3,"['drug_proactiv_md_deep_cleansing_face_wash', 'drug_proactiv_md_adapalene_acne_treatment', 'demo_sex_f', 'reaction_acne', 'demo_age_bin_teenager', 'demo_origin_us']",0,0,0,1,0
+itemset_30,"['drug_dupixent', 'demo_sex_f', 'reaction_pruritus', 'demo_age_bin_child', 'demo_origin_us']",5,3,0,5,0
+itemset_31,"['drug_dupixent', 'demo_sex_f', 'reaction_pruritus', 'demo_age_bin_teenager', 'demo_origin_us', 'demo_weight_40-60 kg']",5,4,0,8,0
+itemset_32,"['drug_dupixent', 'demo_sex_f', 'reaction_pruritus', 'demo_age_bin_teenager', 'demo_origin_us']",5,4,0,10,1
+itemset_33,"['reaction_drug_dose_omission_by_device', 'drug_genotropin', 'demo_sex_m', 'demo_age_bin_teenager', 'demo_origin_us', 'demo_weight_above 60 kg']",0,2,0,18,0
+itemset_34,"['reaction_drug_dose_omission_by_device', 'demo_age_bin_teenager', 'demo_sex_m', 'drug_genotropin', 'demo_origin_us', 'demo_weight_above 60 kg']",0,2,0,18,0
+itemset_35,"['reaction_drug_dose_omission_by_device', 'demo_sex_f', 'demo_age_bin_child', 'drug_genotropin', 'demo_origin_us']",1,5,0,15,0
+itemset_36,"['reaction_drug_dose_omission_by_device', 'drug_genotropin', 'demo_sex_m', 'demo_age_bin_teenager', 'demo_origin_us']",0,5,0,28,0
+itemset_37,"['reaction_drug_dose_omission_by_device', 'drug_genotropin', 'demo_sex_m', 'demo_age_bin_child', 'demo_origin_us', 'demo_weight_40-60 kg']",0,3,0,13,0
+itemset_38,"['reaction_drug_dose_omission_by_device', 'drug_genotropin', 'demo_sex_m', 'demo_age_bin_child', 'demo_origin_us']",0,5,0,25,0
+itemset_4,"['drug_proactiv_md_deep_cleansing_face_wash', 'demo_sex_f', 'reaction_acne', 'demo_age_bin_teenager', 'demo_origin_us']",0,0,0,1,0
+itemset_5,"['drug_proactiv_md_adapalene_acne_treatment', 'demo_sex_f', 'reaction_acne', 'drug_proactiv_md_daily_oil_control_spf_30', 'demo_age_bin_teenager', 'demo_origin_us']",0,0,0,1,0
+itemset_6,"['demo_sex_f', 'reaction_acne', 'drug_proactiv_md_daily_oil_control_spf_30', 'demo_age_bin_teenager', 'demo_origin_us']",0,0,0,1,0
+itemset_7,"['drug_proactiv_md_adapalene_acne_treatment', 'demo_sex_f', 'reaction_acne', 'demo_age_bin_teenager', 'demo_origin_us']",0,0,0,1,0
+itemset_8,"['drug_dupixent', 'demo_sex_f', 'reaction_dermatitis_atopic', 'demo_age_bin_teenager', 'demo_origin_us']",2,5,1,8,0
+itemset_9,"['drug_genotropin', 'reaction_device_mechanical_issue', 'demo_sex_m', 'demo_age_bin_teenager', 'demo_origin_us']",0,3,0,7,0
