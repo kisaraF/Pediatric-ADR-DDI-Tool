@@ -1,0 +1,9 @@
+.venv/
+Data/
+.ipynb_checkpoints/
+Future\ Work.txt
+Notebooks/
+Process_Logs/
+Scripts/
+Streamlit_App/
+ingestion_modules/sample.zip
