@@ -7,3 +7,5 @@ Process_Logs/
 Scripts/
 Streamlit_App/
 ingestion_modules/sample.zip
+ingestion_modules/.venv
+pediatric_adr_ddi_transforms/logs/

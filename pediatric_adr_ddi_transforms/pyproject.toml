@@ -1,0 +1,11 @@
+[project]
+name = "pediatric-adr-ddi-transforms"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dbt-core>=1.11.2",
+    "dbt-databricks>=1.10.9",
+    "sqlfluff>=3.5.0",
+]

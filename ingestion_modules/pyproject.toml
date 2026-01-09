@@ -1,7 +1,7 @@
 [project]
-name = "pediatric-adr-ddi-tool"
+name = "ingestion-modules"
 version = "0.1.0"
-description = "Add your description here"
+description = "Maintaining a separate virt env for ingestion modules"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

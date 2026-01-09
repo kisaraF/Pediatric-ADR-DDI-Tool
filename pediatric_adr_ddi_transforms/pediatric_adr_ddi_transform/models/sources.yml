@@ -1,0 +1,43 @@
+version: 2
+
+sources:
+  - name: raw
+    database: pediatric_adr_events  
+    schema: raw_source  
+    tables:
+      - name: demo
+        description: "Demographic data for each ADR case recieved by FDA"
+        columns:
+          - name: primaryid
+            data_tests:
+              - unique
+              - not_null
+        # freshness:
+        #   warn_after:
+        #     count: 365
+        #     period: day
+        #   error_after:
+        #     count: 1460
+        #     period: day
+        # loaded_at_field: created_at
+      - name: drug
+        description: "Drug data for each ADR case recieved by FDA"
+        columns:
+          - name: primaryid
+            data_tests:
+              - unique
+              - not_null
+      - name: reac
+        description: "Reaction data for each ADR case recieved by FDA"
+        columns:
+          - name: primaryid
+            data_tests:
+              - unique
+              - not_null
+      - name: outc
+        description: "Outcome data for each ADR case recieved by FDA"
+        columns:
+          - name: primaryid
+            data_tests:
+              - unique
+              - not_null
