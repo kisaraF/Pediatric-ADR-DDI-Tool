@@ -1,5 +1,5 @@
 WITH base_reac AS (
-    SELECT 
+    SELECT
         primaryid,
         caseid,
         pt,
@@ -7,7 +7,10 @@ WITH base_reac AS (
         _hash_id,
         ingestion_timestamp
     FROM {{ source('raw','reac') }}
-    qualify row_number() over(partition by _hash_id order by ingestion_timestamp desc) = 1
+    QUALIFY
+        row_number()
+            OVER (PARTITION BY _hash_id ORDER BY ingestion_timestamp DESC)
+        = 1
 )
 
 SELECT *

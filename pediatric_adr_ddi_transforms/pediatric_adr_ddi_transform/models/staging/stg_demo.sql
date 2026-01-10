@@ -1,5 +1,5 @@
 WITH base_demo AS (
-    select 
+    SELECT
         primaryid,
         caseid,
         caseversion,
@@ -27,8 +27,11 @@ WITH base_demo AS (
         occr_country,
         _hash_id,
         ingestion_timestamp
-    from {{ source('raw','demo') }}
-    qualify row_number() over(partition by _hash_id order by ingestion_timestamp desc) = 1
+    FROM {{ source('raw','demo') }}
+    QUALIFY
+        row_number()
+            OVER (PARTITION BY _hash_id ORDER BY ingestion_timestamp DESC)
+        = 1
 )
 
 SELECT *

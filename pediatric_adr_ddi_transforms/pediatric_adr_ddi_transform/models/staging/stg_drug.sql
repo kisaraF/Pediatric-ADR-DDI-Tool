@@ -1,5 +1,5 @@
-WITH base_drug as (
-    SELECT 
+WITH base_drug AS (
+    SELECT
         primaryid,
         caseid,
         drug_seq,
@@ -23,7 +23,10 @@ WITH base_drug as (
         _hash_id,
         ingestion_timestamp
     FROM {{ source('raw','drug') }}
-    qualify row_number() over(partition by _hash_id order by ingestion_timestamp desc) = 1
+    QUALIFY
+        row_number()
+            OVER (PARTITION BY _hash_id ORDER BY ingestion_timestamp DESC)
+        = 1
 )
 
 SELECT *
