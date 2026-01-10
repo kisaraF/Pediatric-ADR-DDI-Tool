@@ -38,3 +38,6 @@ models:
     intermediate:
       +materialized: table
       +schema: intermediate
+    arm_data:
+      +materialized: table
+      +schema: arm_data

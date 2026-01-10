@@ -41,3 +41,9 @@ sources:
             data_tests:
               - unique
               - not_null
+  - name: clean_demo
+    database: pediatric_adr_events  
+    schema: nb_transforms_intermediate  
+    tables:
+      - name: int__demo_complete
+        description: "Cleaned demographic data for the use of preparing ARM transactions"
