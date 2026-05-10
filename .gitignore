@@ -8,6 +8,7 @@ Scripts/
 Streamlit_App/
 ingestion_modules/sample.zip
 ingestion_modules/.venv
+ingestion_modules/__pycache__/
 pediatric_adr_ddi_transforms/logs/
 predict_missing_values/.venv
 predict_missing_values/.ruff_cache
