@@ -13,3 +13,7 @@ pediatric_adr_ddi_transforms/logs/
 predict_missing_values/.venv
 predict_missing_values/.ruff_cache
 rule_mining/mined_rules.duckdb
+rxnorm_modules/.python-version
+rxnorm_modules/__pycache__/
+rxnorm_modules/.venv/
+rxnorm_modules/.ruff_cache/
