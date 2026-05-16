@@ -235,6 +235,7 @@ dependencies = [
     { name = "click" },
     { name = "databricks-connect" },
     { name = "pandas" },
+    { name = "pediatric-adr-shared" },
     { name = "pyarrow" },
     { name = "requests" },
     { name = "ruff" },
@@ -246,6 +247,7 @@ requires-dist = [
     { name = "click", specifier = ">=8.3.3" },
     { name = "databricks-connect", specifier = "==16.4.*" },
     { name = "pandas", specifier = ">=2.3.3" },
+    { name = "pediatric-adr-shared", directory = "../assets" },
     { name = "pyarrow", specifier = ">=22.0.0" },
     { name = "requests", specifier = ">=2.32.5" },
     { name = "ruff", specifier = ">=0.14.10" },
@@ -322,6 +324,11 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/44/91/483de934193e12a3b1d6ae7c8645d083ff88dec75f46e827562f1e4b4da6/pandas-2.3.3-cp314-cp314t-musllinux_1_2_aarch64.whl", hash = "sha256:d051c0e065b94b7a3cea50eb1ec32e912cd96dba41647eb24104b6c6c14c5788", size = 12699963, upload-time = "2025-09-29T23:31:10.009Z" },
     { url = "https://files.pythonhosted.org/packages/70/44/5191d2e4026f86a2a109053e194d3ba7a31a2d10a9c2348368c63ed4e85a/pandas-2.3.3-cp314-cp314t-musllinux_1_2_x86_64.whl", hash = "sha256:3869faf4bd07b3b66a9f462417d0ca3a9df29a9f6abd5d0d0dbab15dac7abe87", size = 13202175, upload-time = "2025-09-29T23:31:59.173Z" },
 ]
+
+[[package]]
+name = "pediatric-adr-shared"
+version = "0.1.0"
+source = { directory = "../assets" }
 
 [[package]]
 name = "protobuf"

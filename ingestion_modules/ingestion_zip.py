@@ -1,24 +1,29 @@
-import requests, requests.exceptions as req_err
+import requests
+import requests.exceptions as req_err
 from io import BytesIO
 from zipfile import ZipFile
-from databricks.connect import DatabricksSession
+from pyspark.sql import SparkSession
 import pandas as pd
 from pyspark.sql.functions import col, sha2, concat_ws, current_timestamp
 from fetch_http_link import operation
+from pediatric_adr_shared.logging_mod import init_logger
+import os
 
 
-def sparkSession() -> DatabricksSession:
-    spark = DatabricksSession.builder.serverless().profile("DEFAULT").getOrCreate()
-    return spark
+logger = init_logger()
 
 
-def checkStatus(url: str):
-    res = requests.get(url)
-    return res
+def sparkSession() -> SparkSession:
+    if os.environ.get("DATABRICKS_RUNTIME_VERSION"):  # for DAB jobs
+        return SparkSession.builder.getOrCreate()
+
+    from databricks.connect import DatabricksSession  # else local development
+
+    return DatabricksSession.builder.getOrCreate()
 
 
-def readFile(ss: DatabricksSession, url):
-    print("Processing starting ...")
+def readFile(ss: SparkSession, url):
+    logger.info("Processing starting ...")
     reserved_words = ["DEMO", "DRUG", "OUTC", "REAC"]
 
     with ZipFile(BytesIO(url)) as zip_file:
@@ -27,19 +32,18 @@ def readFile(ss: DatabricksSession, url):
             for f in zip_file.namelist()
             if f.endswith(".txt") and any(word in f for word in reserved_words)
         ]
-        print(chosen_files)
 
         for file in chosen_files:
-            print(f"\nProcessing {file}")
+            logger.info(f"\nProcessing {file}")
 
             tb_id = file.split("/")[-1].split(".")[0][:4].lower()
             tb_name = f"pediatric_adr_events.raw_source.{tb_id}"
 
             df = pd.read_csv(zip_file.open(file), sep="$", dtype=str)
-            print(f"File loaded to pandas {df.shape}")
+            logger.info(f"File loaded to pandas {df.shape}")
 
             spark_df = ss.createDataFrame(df)
-            print("Loaded as a Spark DataFrame")
+            logger.info("Loaded as a Spark DataFrame")
 
             spark_df = spark_df.withColumn(
                 "_hash_id",
@@ -47,24 +51,26 @@ def readFile(ss: DatabricksSession, url):
             )
 
             spark_df = spark_df.withColumn("ingestion_timestamp", current_timestamp())
-            print("Added metadata columns")
+            logger.info("Added metadata columns")
 
             spark_df.write.format("delta").mode("append").saveAsTable(tb_name)
-            print("Loaded to Databricks")
+            logger.info("Loaded to Databricks")
 
 
-if __name__ == "__main__":
+def ingest_data():
     url = operation()
-    print(f"Retrieved the URL: {url}")
     try:
-        print("Extracting bytes from URL")
+        logger.info("Extracting bytes from URL")
         res = requests.get(url)
         res.raise_for_status()
         spark = sparkSession()
-        print("spark session created")
+        logger.info("spark session created")
         readFile(spark, res.content)
-        print(type(res.content))
     except req_err.HTTPError as http_err:
-        print(f"HTTP Error: {http_err}")
+        logger.error(f"HTTP Error: {http_err}")
     except Exception as e:
-        print(f"Other error encountered: {e}")
+        logger.error(f"Other error encountered: {e}")
+
+
+if __name__ == "__main__":
+    ingest_data()

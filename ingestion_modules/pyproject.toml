@@ -9,7 +9,11 @@ dependencies = [
     "click>=8.3.3",
     "databricks-connect==16.4.*",
     "pandas>=2.3.3",
+    "pediatric-adr-shared",
     "pyarrow>=22.0.0",
     "requests>=2.32.5",
     "ruff>=0.14.10",
 ]
+
+[tool.uv.sources]
+pediatric-adr-shared = { path = "../assets" }
