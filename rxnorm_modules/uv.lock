@@ -412,6 +412,11 @@ wheels = [
 ]
 
 [[package]]
+name = "pediatric-adr-shared"
+version = "0.1.0"
+source = { directory = "../assets" }
+
+[[package]]
 name = "protobuf"
 version = "6.33.6"
 source = { registry = "https://pypi.org/simple" }
@@ -576,6 +581,7 @@ source = { virtual = "." }
 dependencies = [
     { name = "click" },
     { name = "databricks-connect" },
+    { name = "pediatric-adr-shared" },
     { name = "ruff" },
 ]
 
@@ -583,6 +589,7 @@ dependencies = [
 requires-dist = [
     { name = "click", specifier = ">=8.3.3" },
     { name = "databricks-connect", specifier = "==16.4.*" },
+    { name = "pediatric-adr-shared", directory = "../assets" },
     { name = "ruff", specifier = ">=0.15.13" },
 ]
 
