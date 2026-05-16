@@ -12,14 +12,14 @@ sources:
             data_tests:
               - unique
               - not_null
-        # freshness:
-        #   warn_after:
-        #     count: 365
-        #     period: day
-        #   error_after:
-        #     count: 1460
-        #     period: day
-        # loaded_at_field: created_at
+        freshness:
+          warn_after:
+            count: 365
+            period: day
+          error_after:
+            count: 1460
+            period: day
+        loaded_at_field: ingestion_timestamp
       - name: drug
         description: "Drug data for each ADR case recieved by FDA"
         columns:
@@ -41,6 +41,12 @@ sources:
             data_tests:
               - unique
               - not_null
+      - name: rxnorm_key
+        description: "RxNorm normalized drug names for addressing multiple brand variants of the same drug"
+        columns:
+          - name: drug_raw
+            data_tests:
+              - unique
   - name: clean_demo
     database: pediatric_adr_events  
     schema: nb_transforms_intermediate  
