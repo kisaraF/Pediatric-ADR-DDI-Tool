@@ -1,6 +1,7 @@
 import os
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import current_timestamp
+from pyspark.sql.types import StructType, StructField, StringType, LongType, FloatType
 from fetch_drug_match import get_drug_match
 from itertools import batched
 from pediatric_adr_shared.logging_mod import init_logger
@@ -20,12 +21,35 @@ def get_spark() -> SparkSession:
 
 
 def write_results(spark: SparkSession, tgt_table_name: str, itm_ls: list[str]):
-    results = [get_drug_match(drug) for drug in itm_ls]
-    results_df = spark.createDataFrame(results)
+    schema_i = StructType(
+        [
+            StructField("drug_raw", StringType(), nullable=True),
+            StructField("match_rxcui", LongType(), nullable=True),
+            StructField("match_rank", LongType(), nullable=True),
+            StructField("match_score", FloatType(), nullable=True),
+            StructField("match_name", StringType(), nullable=True),
+            StructField("match_source", StringType(), nullable=True),
+            StructField("bn_rxcui", LongType(), nullable=True),
+            StructField("bn_name", StringType(), nullable=True),
+            StructField("in_rxcui", LongType(), nullable=True),
+            StructField("in_name", StringType(), nullable=True),
+        ]
+    )
+    # results = [get_drug_match(drug) for drug in itm_ls]
+    results = []
+    for drug in itm_ls:
+        result = get_drug_match(drug)
+        if isinstance(result, list):
+            for i in result:
+                results.append(i)
+        else:
+            results.append(result)
+    results_df = spark.createDataFrame(results, schema=schema_i)
     results_df = results_df.select(
         "drug_raw",
         "match_rxcui",
         "match_rank",
+        "match_score",
         "match_name",
         "match_source",
         "bn_rxcui",
@@ -34,10 +58,10 @@ def write_results(spark: SparkSession, tgt_table_name: str, itm_ls: list[str]):
         "in_name",
     )
     results_df = results_df.withColumn("added_datetime", current_timestamp())
-
+    logger.info("Adding timestamp auditing column")
     # append to the target table
     results_df.writeTo(tgt_table_name).append()
-    logger.info("Result set appended to the target table")
+    logger.info("Result set appended to the target table\n\n")
 
 
 def get_drugs_list(
@@ -53,15 +77,28 @@ def get_drugs_list(
     # only consider that are already not in the base
     query = f"""
 SELECT DISTINCT raw.drugname
-FROM {raw_table_name} as raw
-LEFT JOIN {tgt_table_name} as tgt
+FROM (
+    SELECT upper(drugname) as drugname
+    FROM {raw_table_name}
+    WHERE primaryid IN (
+        SELECT DISTINCT primaryid
+        FROM pediatric_adr_events.raw_source.demo
+        WHERE occr_country = 'US' 
+        OR reporter_country = 'US'
+    )
+) as raw
+LEFT JOIN (
+    SELECT upper(drug_raw) as drug_raw
+    FROM {tgt_table_name}
+) as tgt
 ON tgt.drug_raw = raw.drugname
 WHERE tgt.drug_raw IS NULL
 """
 
-    df = spark.sql(query).limit(20)
+    df = spark.sql(query)
     # convert the drugs to a list
     drugs_list = [row["drugname"] for row in df.select("drugname").collect()]
+    logger.info(f"Identified {len(drugs_list)} drugs to be RxNorm normalization\n")
     # break into chunks if there are too much
     if len(drugs_list) > 10:
         logger.info(
