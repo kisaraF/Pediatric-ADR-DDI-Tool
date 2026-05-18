@@ -155,6 +155,7 @@ final as (
         outlier_check <> "Invalid Weight"
         and age_yrs > 0
         and init_fda_dt_int >= 20210101
+        and origin_country = "US" -- make sure only US caes are taken
 )
 
 select *

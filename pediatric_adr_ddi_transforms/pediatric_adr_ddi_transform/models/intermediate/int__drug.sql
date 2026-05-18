@@ -11,7 +11,7 @@ with base as (
   from {{ ref('stg_drug') }}
   where drugname is not null
   and primaryid in (
-    {% for id in pid_list %}
+  	{% for id in pid_list %}
         '{{ id }}'{% if not loop.last %}, {% endif %}
     {% endfor %}
   )
@@ -19,12 +19,12 @@ with base as (
 ,
 -- Use RxNorm table and join it's info
 rx_norm as (
-    select distinct upper(drug_raw) as drug_name, in_name
+    select distinct upper(drug_raw) as drug_name, in_name, match_score
     from {{ source('raw', 'rxnorm_key') }}
     where drug_raw <> "dummy"
 )
 
-select base.*, rx_norm.in_name as rxnorm_in
+select base.*, rx_norm.match_score, rx_norm.in_name as rxnorm_in
 from base
 left join rx_norm
 on base.drugname = rx_norm.drug_name

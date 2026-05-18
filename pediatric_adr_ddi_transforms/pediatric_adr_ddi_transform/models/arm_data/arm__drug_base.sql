@@ -1,7 +1,8 @@
 with drug_base as (
   select 
     *,
-    'drug_' || {{ clean_string('drugname') }} as drugname_clean
+    'drug_' || {{ clean_string('drugname') }} as drugbrand_clean,
+    'drug_' || {{ clean_string('rxnorm_in') }} as drugname_clean
   from {{ ref('int__drug') }}
 )
 ,

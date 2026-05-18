@@ -28,6 +28,7 @@ WITH base_demo AS (
         _hash_id,
         ingestion_timestamp
     FROM {{ source('raw','demo') }}
+    WHERE occr_country = 'US' -- only taking USA records because of RxNorm
     QUALIFY
         row_number()
             OVER (PARTITION BY _hash_id ORDER BY ingestion_timestamp DESC)
