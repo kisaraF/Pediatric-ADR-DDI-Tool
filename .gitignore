@@ -17,3 +17,4 @@ rxnorm_modules/.python-version
 rxnorm_modules/__pycache__/
 rxnorm_modules/.venv/
 rxnorm_modules/.ruff_cache/
+rxnorm_modules/sample-logs/

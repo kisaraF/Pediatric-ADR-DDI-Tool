@@ -156,6 +156,7 @@ def get_drug_match(drug_str):
     if drug_match is None:
         drug_match = get_approximate_result(drug_str)
         logger.info(f"Falling back to approximate match for {drug_str}")
+    print(drug_match)
     if drug_match["match_rxcui"] is not None:
         drug_hash = drug_match["match_rxcui"]
         if isinstance(drug_match["match_rxcui"], list) and len(drug_hash) > 1:

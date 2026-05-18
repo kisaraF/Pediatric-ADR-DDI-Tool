@@ -5,6 +5,7 @@ from pyspark.sql.types import StructType, StructField, StringType, LongType, Flo
 from fetch_drug_match import get_drug_match
 from itertools import batched
 from pediatric_adr_shared.logging_mod import init_logger
+from concurrent.futures import ThreadPoolExecutor
 
 logger = init_logger()
 src_table = "pediatric_adr_events.raw_source.drug"
@@ -35,15 +36,15 @@ def write_results(spark: SparkSession, tgt_table_name: str, itm_ls: list[str]):
             StructField("in_name", StringType(), nullable=True),
         ]
     )
-    # results = [get_drug_match(drug) for drug in itm_ls]
     results = []
-    for drug in itm_ls:
-        result = get_drug_match(drug)
-        if isinstance(result, list):
-            for i in result:
+    with ThreadPoolExecutor(max_workers=20) as worker:
+        result_sub = list(worker.map(get_drug_match, itm_ls))
+    for sub in result_sub:
+        if isinstance(sub, list):
+            for i in sub:
                 results.append(i)
         else:
-            results.append(result)
+            results.append(sub)
     results_df = spark.createDataFrame(results, schema=schema_i)
     results_df = results_df.select(
         "drug_raw",
@@ -86,6 +87,7 @@ FROM (
         WHERE occr_country = 'US' 
         OR reporter_country = 'US'
     )
+    AND drugname IS NOT NULL
 ) as raw
 LEFT JOIN (
     SELECT upper(drug_raw) as drug_raw
@@ -100,11 +102,12 @@ WHERE tgt.drug_raw IS NULL
     drugs_list = [row["drugname"] for row in df.select("drugname").collect()]
     logger.info(f"Identified {len(drugs_list)} drugs to be RxNorm normalization\n")
     # break into chunks if there are too much
-    if len(drugs_list) > 10:
+    chunk_size = 40
+    if len(drugs_list) > chunk_size:
         logger.info(
-            f"Drugs list has more than {len(drugs_list)} items. Hence, using chunks of 10"
+            f"Drugs list has more than {len(drugs_list)} items. Hence, using chunks of {chunk_size}"
         )
-        for chunk in batched(drugs_list, 10):
+        for chunk in batched(drugs_list, chunk_size):
             write_results(spark, tgt_table_name, chunk)
     else:
         write_results(spark, tgt_table_name, drugs_list)
