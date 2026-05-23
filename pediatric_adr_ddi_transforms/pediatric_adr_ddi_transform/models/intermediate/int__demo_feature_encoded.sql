@@ -1,3 +1,5 @@
+{{ config(tags=["intermediate", "demo_feature_encoding"]) }}
+
 with base as (
     select
         *,

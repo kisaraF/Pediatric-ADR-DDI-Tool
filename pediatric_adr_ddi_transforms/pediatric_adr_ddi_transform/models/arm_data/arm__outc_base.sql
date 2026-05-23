@@ -1,3 +1,5 @@
+{{ config(tags=["arm_data", "outc_base"]) }}
+
 with outc_base as (
   select 
     *,

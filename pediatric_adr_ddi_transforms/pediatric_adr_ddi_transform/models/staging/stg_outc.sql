@@ -1,3 +1,5 @@
+{{ config(tags=["staging", "outc"]) }}
+
 WITH base_outc AS (
     SELECT
         primaryid,

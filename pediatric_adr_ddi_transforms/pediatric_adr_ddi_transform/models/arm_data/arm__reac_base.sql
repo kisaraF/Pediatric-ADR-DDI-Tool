@@ -1,3 +1,5 @@
+{{ config(tags=["arm_data", "reac_base"]) }}
+
 with reac_base as (
   select 
     *,

@@ -1,3 +1,5 @@
+{{ config(tags=["staging", "reac"]) }}
+
 WITH base_reac AS (
     SELECT
         primaryid,

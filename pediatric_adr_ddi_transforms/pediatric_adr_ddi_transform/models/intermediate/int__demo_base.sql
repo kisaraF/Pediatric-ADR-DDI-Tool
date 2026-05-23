@@ -1,3 +1,5 @@
+{{ config(tags=["intermediate", "demo_base"]) }}
+
 with base as (
     select
         primaryid,

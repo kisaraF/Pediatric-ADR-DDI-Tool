@@ -1,3 +1,5 @@
+{{ config(tags=["arm_data", "demo_base"]) }}
+
 with demo_base as (
     select
         primaryid,

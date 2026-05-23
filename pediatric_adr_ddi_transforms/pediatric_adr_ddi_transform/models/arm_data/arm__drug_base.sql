@@ -1,3 +1,5 @@
+{{ config(tags=["arm_data", "drug_base"]) }}
+
 with drug_base as (
   select 
     *,

@@ -1,3 +1,5 @@
+{{ config(tags=["intermediate", "outcomes"]) }}
+
 {% set pid_list = get_demo_primary_ids() %}
 
 with base as (

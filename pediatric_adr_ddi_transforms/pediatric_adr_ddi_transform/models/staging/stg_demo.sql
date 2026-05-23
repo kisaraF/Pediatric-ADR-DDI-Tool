@@ -1,3 +1,5 @@
+{{ config(tags=["staging", "demo"]) }}
+
 WITH base_demo AS (
     SELECT
         primaryid,
