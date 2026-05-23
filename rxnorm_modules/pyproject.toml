@@ -1,0 +1,15 @@
+[project]
+name = "rxnorm-modules"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ruff>=0.15.13",
+    "databricks-connect==16.4.*",
+    "click>=8.3.3",
+    "pediatric-adr-shared",
+]
+
+[tool.uv.sources]
+pediatric-adr-shared = { path = "../assets" }

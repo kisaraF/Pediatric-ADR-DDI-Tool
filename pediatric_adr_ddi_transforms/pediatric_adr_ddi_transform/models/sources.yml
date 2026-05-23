@@ -1,0 +1,55 @@
+version: 2
+
+sources:
+  - name: raw
+    database: pediatric_adr_events  
+    schema: raw_source  
+    tables:
+      - name: demo
+        description: "Demographic data for each ADR case recieved by FDA"
+        columns:
+          - name: primaryid
+            data_tests:
+              - unique
+              - not_null
+        freshness:
+          warn_after:
+            count: 365
+            period: day
+          error_after:
+            count: 1460
+            period: day
+        loaded_at_field: ingestion_timestamp
+      - name: drug
+        description: "Drug data for each ADR case recieved by FDA"
+        columns:
+          - name: primaryid
+            data_tests:
+              - unique
+              - not_null
+      - name: reac
+        description: "Reaction data for each ADR case recieved by FDA"
+        columns:
+          - name: primaryid
+            data_tests:
+              - unique
+              - not_null
+      - name: outc
+        description: "Outcome data for each ADR case recieved by FDA"
+        columns:
+          - name: primaryid
+            data_tests:
+              - unique
+              - not_null
+      - name: rxnorm_key
+        description: "RxNorm normalized drug names for addressing multiple brand variants of the same drug"
+        columns:
+          - name: drug_raw
+            data_tests:
+              - unique
+  - name: clean_demo
+    database: pediatric_adr_events  
+    schema: nb_transforms_intermediate  
+    tables:
+      - name: int__demo_complete
+        description: "Cleaned demographic data for the use of preparing ARM transactions"

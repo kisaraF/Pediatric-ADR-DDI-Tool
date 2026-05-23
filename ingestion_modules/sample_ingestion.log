@@ -1,0 +1,72 @@
+2026-05-22 15:22:52,488 - INFO - pediatric_adr_shared.logging_mod - spark session created
+2026-05-22 15:22:52,489 - INFO - pediatric_adr_shared.logging_mod - Found 4 links to bulk update
+2026-05-22 15:22:52,490 - INFO - pediatric_adr_shared.logging_mod - Processing starting for backfill-extracts/faers_ascii_2025q2.zip...
+2026-05-22 15:22:52,491 - INFO - pediatric_adr_shared.logging_mod - Processing starting for backfill-extracts/faers_ascii_2025q1.zip...
+2026-05-22 15:22:52,492 - INFO - pediatric_adr_shared.logging_mod - Processing starting for backfill-extracts/faers_ascii_2025q3.zip...
+2026-05-22 15:22:52,495 - INFO - pediatric_adr_shared.logging_mod - Processing starting for backfill-extracts/faers_ascii_2025q4.zip...
+2026-05-22 15:22:59,432 - INFO - pediatric_adr_shared.logging_mod - ASCII/REAC25Q4.txt loaded to pandas (1349105, 4)
+2026-05-22 15:23:01,751 - INFO - pediatric_adr_shared.logging_mod - ASCII/DEMO25Q2.txt loaded to pandas (393130, 25)
+2026-05-22 15:23:04,784 - INFO - pediatric_adr_shared.logging_mod - ASCII/DEMO25Q1.txt loaded to pandas (400514, 25)
+2026-05-22 15:23:15,529 - INFO - pediatric_adr_shared.logging_mod - ASCII/DRUG25Q3.txt loaded to pandas (2148451, 20)
+2026-05-22 15:35:02,325 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 15:35:15,248 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 15:36:06,128 - INFO - pediatric_adr_shared.logging_mod - ASCII/REAC25Q4.txt Loaded to Databricks
+2026-05-22 15:36:06,654 - INFO - pediatric_adr_shared.logging_mod - ASCII/OUTC25Q4.txt loaded to pandas (289721, 3)
+2026-05-22 15:37:09,099 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 15:37:15,957 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 15:37:30,398 - INFO - pediatric_adr_shared.logging_mod - ASCII/OUTC25Q4.txt Loaded to Databricks
+2026-05-22 15:37:34,128 - INFO - pediatric_adr_shared.logging_mod - ASCII/DEMO25Q4.txt loaded to pandas (385288, 25)
+2026-05-22 15:38:26,353 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 15:38:36,053 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 15:39:01,174 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 15:39:04,608 - INFO - pediatric_adr_shared.logging_mod - ASCII/DEMO25Q2.txt Loaded to Databricks
+2026-05-22 15:39:11,251 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 15:39:15,689 - INFO - pediatric_adr_shared.logging_mod - ASCII/DRUG25Q2.txt loaded to pandas (1829056, 20)
+2026-05-22 15:39:37,943 - INFO - pediatric_adr_shared.logging_mod - ASCII/DEMO25Q1.txt Loaded to Databricks
+2026-05-22 15:39:50,229 - INFO - pediatric_adr_shared.logging_mod - ASCII/DRUG25Q1.txt loaded to pandas (2008162, 20)
+2026-05-22 15:51:02,558 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 15:51:12,303 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 15:51:43,195 - INFO - pediatric_adr_shared.logging_mod - ASCII/DEMO25Q4.txt Loaded to Databricks
+2026-05-22 15:51:54,210 - INFO - pediatric_adr_shared.logging_mod - ASCII/DRUG25Q4.txt loaded to pandas (1815349, 20)
+2026-05-22 16:14:46,648 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:15:00,290 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:16:34,551 - INFO - pediatric_adr_shared.logging_mod - ASCII/DRUG25Q3.txt Loaded to Databricks
+2026-05-22 16:16:37,293 - INFO - pediatric_adr_shared.logging_mod - ASCII/REAC25Q3.txt loaded to pandas (1535133, 4)
+2026-05-22 16:19:37,884 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:19:50,321 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:21:09,043 - INFO - pediatric_adr_shared.logging_mod - ASCII/DRUG25Q2.txt Loaded to Databricks
+2026-05-22 16:21:09,740 - INFO - pediatric_adr_shared.logging_mod - ASCII/OUTC25Q2.txt loaded to pandas (295583, 3)
+2026-05-22 16:22:36,234 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:23:08,239 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:23:20,399 - INFO - pediatric_adr_shared.logging_mod - ASCII/OUTC25Q2.txt Loaded to Databricks
+2026-05-22 16:23:22,735 - INFO - pediatric_adr_shared.logging_mod - ASCII/REAC25Q2.txt loaded to pandas (1340666, 4)
+2026-05-22 16:23:56,317 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:24:08,249 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:25:04,913 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:25:21,789 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:25:43,778 - INFO - pediatric_adr_shared.logging_mod - ASCII/DRUG25Q1.txt Loaded to Databricks
+2026-05-22 16:25:44,521 - INFO - pediatric_adr_shared.logging_mod - ASCII/OUTC25Q1.txt loaded to pandas (304027, 3)
+2026-05-22 16:26:04,325 - INFO - pediatric_adr_shared.logging_mod - ASCII/REAC25Q3.txt Loaded to Databricks
+2026-05-22 16:26:08,819 - INFO - pediatric_adr_shared.logging_mod - ASCII/DEMO25Q3.txt loaded to pandas (438512, 25)
+2026-05-22 16:27:02,361 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:27:10,088 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:27:26,738 - INFO - pediatric_adr_shared.logging_mod - ASCII/OUTC25Q1.txt Loaded to Databricks
+2026-05-22 16:27:29,231 - INFO - pediatric_adr_shared.logging_mod - ASCII/REAC25Q1.txt loaded to pandas (1432926, 4)
+2026-05-22 16:29:46,432 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:29:48,017 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:29:55,062 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:29:58,130 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:30:35,283 - INFO - pediatric_adr_shared.logging_mod - ASCII/REAC25Q2.txt Loaded to Databricks
+2026-05-22 16:31:31,752 - INFO - pediatric_adr_shared.logging_mod - ASCII/DRUG25Q4.txt Loaded to Databricks
+2026-05-22 16:33:24,598 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:33:30,592 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:33:48,080 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:33:52,179 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:34:06,716 - INFO - pediatric_adr_shared.logging_mod - ASCII/REAC25Q1.txt Loaded to Databricks
+2026-05-22 16:34:19,826 - INFO - pediatric_adr_shared.logging_mod - ASCII/DEMO25Q3.txt Loaded to Databricks
+2026-05-22 16:34:20,453 - INFO - pediatric_adr_shared.logging_mod - ASCII/OUTC25Q3.txt loaded to pandas (343251, 3)
+2026-05-22 16:34:48,929 - INFO - pediatric_adr_shared.logging_mod - Loaded as a Spark DataFrame
+2026-05-22 16:34:50,033 - INFO - pediatric_adr_shared.logging_mod - Added metadata columns
+2026-05-22 16:34:56,176 - INFO - pediatric_adr_shared.logging_mod - ASCII/OUTC25Q3.txt Loaded to Databricks
+2026-05-22 16:34:56,254 - INFO - pediatric_adr_shared.logging_mod - Completed fetching to delta table process
+2026-05-22 16:34:56,255 - INFO - pediatric_adr_shared.logging_mod - Completed updating json tracking file
