@@ -1,4 +1,5 @@
-import requests, requests.exceptions as re_e
+import requests
+import requests.exceptions as re_e
 import re
 from datetime import datetime
 from bs4 import BeautifulSoup

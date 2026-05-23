@@ -85,7 +85,6 @@ FROM (
         SELECT DISTINCT primaryid
         FROM pediatric_adr_events.raw_source.demo
         WHERE occr_country = 'US' 
-        OR reporter_country = 'US'
     )
     AND drugname IS NOT NULL
 ) as raw

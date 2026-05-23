@@ -1,0 +1,32 @@
+[
+    {
+        "year": 2026,
+        "quarter": 1,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2026q1.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2025,
+        "quarter": 1,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2025q1.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2025,
+        "quarter": 2,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2025q2.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2025,
+        "quarter": 3,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2025q3.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2025,
+        "quarter": 4,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2025Q4.zip",
+        "status": "CF"
+    }
+]
