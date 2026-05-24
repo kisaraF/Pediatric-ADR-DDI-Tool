@@ -30,7 +30,7 @@ final as (
         'demo_age_bin_' || age_bin as age_bin_re,
         'demo_weight_' || wt_bin as wt_bin_re,
         'demo_sex_' || sex as sex_re,
-        'demo_origin_' || age_bin as origin_country_re
+        'demo_origin_' || origin_country as origin_country_re
     from demo_base
 )
 
