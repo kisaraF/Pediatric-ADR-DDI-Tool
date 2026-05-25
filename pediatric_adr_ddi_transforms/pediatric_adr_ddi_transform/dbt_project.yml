@@ -41,3 +41,6 @@ models:
     arm_data:
       +materialized: table
       +schema: arm_data
+    marts:
+      +materialized: table
+      +schema: marts
