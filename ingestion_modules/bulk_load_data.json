@@ -28,5 +28,89 @@
         "quarter": 4,
         "link": "https://fis.fda.gov/content/Exports/faers_ascii_2025Q4.zip",
         "status": "CF"
+    },
+    {
+        "year": 2024,
+        "quarter": 1,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2024q1.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2024,
+        "quarter": 2,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2024q2.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2024,
+        "quarter": 3,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2024q3.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2024,
+        "quarter": 4,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2024Q4.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2024,
+        "quarter": 3,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2024q3.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2024,
+        "quarter": 4,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2024Q4.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2023,
+        "quarter": 1,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2023q1.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2023,
+        "quarter": 2,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2023q2.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2023,
+        "quarter": 3,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2023Q3.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2023,
+        "quarter": 4,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2023Q4.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2022,
+        "quarter": 1,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2022q1.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2022,
+        "quarter": 2,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2022q2.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2022,
+        "quarter": 3,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2022Q3.zip",
+        "status": "CF"
+    },
+    {
+        "year": 2022,
+        "quarter": 4,
+        "link": "https://fis.fda.gov/content/Exports/faers_ascii_2022Q4.zip",
+        "status": "CF"
     }
 ]
