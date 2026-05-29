@@ -53,3 +53,9 @@ sources:
     tables:
       - name: int__demo_complete
         description: "Cleaned demographic data for the use of preparing ARM transactions"
+  - name: mined_rules_db
+    database: pediatric_adr_events
+    schema: nb_transforms_intermediate
+    tables:
+      - name: mined_rules
+        description: "Mined rules from the ARM transactions"

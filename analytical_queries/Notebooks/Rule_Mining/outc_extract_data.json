@@ -1,0 +1,6378 @@
+[
+  {
+    "itemset_1": [
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "demo_sex_f",
+      "reaction_acne",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_64448": [
+      "demo_origin_us",
+      "reaction_wheezing",
+      "demo_weight_above 60 kg",
+      "reaction_oral_mucosal_blistering",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "drug_proactiv_redness_relief_serum",
+      "demo_sex_f",
+      "drug_proactiv_deep_cleansing_wash",
+      "reaction_anaphylactic_reaction",
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "reaction_acne",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "drug_proactiv_green_tea_moisturizer",
+      "reaction_lip_swelling",
+      "outc_ot",
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "reaction_hypoaesthesia",
+      "reaction_throat_tightness"
+    ],
+    "item_case_1": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_2": [
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "demo_sex_f",
+      "reaction_acne",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_64448": [
+      "demo_origin_us",
+      "reaction_wheezing",
+      "demo_weight_above 60 kg",
+      "reaction_oral_mucosal_blistering",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "drug_proactiv_redness_relief_serum",
+      "demo_sex_f",
+      "drug_proactiv_deep_cleansing_wash",
+      "reaction_anaphylactic_reaction",
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "reaction_acne",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "drug_proactiv_green_tea_moisturizer",
+      "reaction_lip_swelling",
+      "outc_ot",
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "reaction_hypoaesthesia",
+      "reaction_throat_tightness"
+    ],
+    "item_case_2": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_3": [
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "demo_sex_f",
+      "reaction_acne",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_64448": [
+      "demo_origin_us",
+      "reaction_wheezing",
+      "demo_weight_above 60 kg",
+      "reaction_oral_mucosal_blistering",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "drug_proactiv_redness_relief_serum",
+      "demo_sex_f",
+      "drug_proactiv_deep_cleansing_wash",
+      "reaction_anaphylactic_reaction",
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "reaction_acne",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "drug_proactiv_green_tea_moisturizer",
+      "reaction_lip_swelling",
+      "outc_ot",
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "reaction_hypoaesthesia",
+      "reaction_throat_tightness"
+    ],
+    "item_case_3": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_4": [
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "demo_sex_f",
+      "reaction_acne",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_64448": [
+      "demo_origin_us",
+      "reaction_wheezing",
+      "demo_weight_above 60 kg",
+      "reaction_oral_mucosal_blistering",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "drug_proactiv_redness_relief_serum",
+      "demo_sex_f",
+      "drug_proactiv_deep_cleansing_wash",
+      "reaction_anaphylactic_reaction",
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "reaction_acne",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "drug_proactiv_green_tea_moisturizer",
+      "reaction_lip_swelling",
+      "outc_ot",
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "reaction_hypoaesthesia",
+      "reaction_throat_tightness"
+    ],
+    "item_case_4": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_5": [
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "demo_sex_f",
+      "reaction_acne",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_64448": [
+      "demo_origin_us",
+      "reaction_wheezing",
+      "demo_weight_above 60 kg",
+      "reaction_oral_mucosal_blistering",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "drug_proactiv_redness_relief_serum",
+      "demo_sex_f",
+      "drug_proactiv_deep_cleansing_wash",
+      "reaction_anaphylactic_reaction",
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "reaction_acne",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "drug_proactiv_green_tea_moisturizer",
+      "reaction_lip_swelling",
+      "outc_ot",
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "reaction_hypoaesthesia",
+      "reaction_throat_tightness"
+    ],
+    "item_case_5": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_6": [
+      "demo_sex_f",
+      "reaction_acne",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_64448": [
+      "demo_origin_us",
+      "reaction_wheezing",
+      "demo_weight_above 60 kg",
+      "reaction_oral_mucosal_blistering",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "drug_proactiv_redness_relief_serum",
+      "demo_sex_f",
+      "drug_proactiv_deep_cleansing_wash",
+      "reaction_anaphylactic_reaction",
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "reaction_acne",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "drug_proactiv_green_tea_moisturizer",
+      "reaction_lip_swelling",
+      "outc_ot",
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "reaction_hypoaesthesia",
+      "reaction_throat_tightness"
+    ],
+    "item_case_6": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_7": [
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "demo_sex_f",
+      "reaction_acne",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_64448": [
+      "demo_origin_us",
+      "reaction_wheezing",
+      "demo_weight_above 60 kg",
+      "reaction_oral_mucosal_blistering",
+      "drug_proactiv_md_daily_oil_control_spf_30",
+      "drug_proactiv_redness_relief_serum",
+      "demo_sex_f",
+      "drug_proactiv_deep_cleansing_wash",
+      "reaction_anaphylactic_reaction",
+      "drug_proactiv_md_deep_cleansing_face_wash",
+      "reaction_acne",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "drug_proactiv_green_tea_moisturizer",
+      "reaction_lip_swelling",
+      "outc_ot",
+      "drug_proactiv_md_adapalene_acne_treatment",
+      "reaction_hypoaesthesia",
+      "reaction_throat_tightness"
+    ],
+    "item_case_7": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_10597": [
+      "demo_origin_us",
+      "reaction_dry_skin",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_therapeutic_response_decreased",
+      "reaction_skin_fissures",
+      "drug_epipen_epinephrine",
+      "drug_vitamin_d3",
+      "reaction_skin_haemorrhage",
+      "drug_claritin",
+      "reaction_thyroid_hormones_increased",
+      "drug_zinc",
+      "reaction_pruritus",
+      "drug_tacrolimus",
+      "drug_hydroxyzine_hydrochloride",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "demo_weight_40-60 kg",
+      "drug_proair_respiclick",
+      "outc_ot",
+      "drug_vitamin_c",
+      "reaction_skin_exfoliation",
+      "reaction_hypothyroidism"
+    ],
+    "item_case_8": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_20962": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_asthma",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_product_dose_omission_issue",
+      "reaction_product_use_issue",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "outc_lt"
+    ],
+    "item_case_8": [
+      "outc_lt"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_30824": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_asthma",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "reaction_sleep_disorder",
+      "demo_sex_f",
+      "drug_flovent",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "drug_loratadine",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "outc_ds",
+      "drug_montelukast",
+      "reaction_breast_discharge"
+    ],
+    "item_case_8": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_30881": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_suicide_attempt",
+      "reaction_pain",
+      "reaction_body_temperature_increased",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "outc_ot",
+      "demo_age_bin_teenager"
+    ],
+    "item_case_8": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_31333": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_asthma",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "drug_betameth_dipropionate",
+      "outc_ho"
+    ],
+    "item_case_8": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_34900": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_von_willebrands_disease",
+      "demo_sex_f",
+      "drug_albuterol",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "drug_hydroxyzine",
+      "drug_triamcinolone",
+      "drug_eucrisa",
+      "drug_lysteda",
+      "drug_loratadine",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "reaction_intentional_product_misuse",
+      "drug_benadryl",
+      "reaction_therapeutic_product_effect_incomplete"
+    ],
+    "item_case_8": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_37021": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_product_use_in_unapproved_indication",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "reaction_hospitalisation",
+      "outc_ho"
+    ],
+    "item_case_8": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_38012": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_weight_increased",
+      "demo_age_bin_teenager",
+      "reaction_hospitalisation",
+      "reaction_therapeutic_product_effect_incomplete",
+      "outc_ho"
+    ],
+    "item_case_8": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_40055": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "demo_sex_f",
+      "reaction_pneumonia",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "outc_ot",
+      "demo_age_bin_teenager"
+    ],
+    "item_case_8": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_51760": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_asthma",
+      "reaction_product_use_in_unapproved_indication",
+      "reaction_sleep_disorder",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_impaired_quality_of_life",
+      "reaction_juvenile_idiopathic_arthritis"
+    ],
+    "item_case_8": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_53435": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "outc_ho"
+    ],
+    "item_case_8": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_54227": [
+      "demo_origin_us",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "reaction_pain_in_extremity",
+      "reaction_product_preparation_error",
+      "reaction_dry_skin",
+      "reaction_injection_site_pain",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_skin_fissures",
+      "reaction_facial_pain",
+      "reaction_skin_haemorrhage",
+      "outc_ds",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "reaction_fatigue",
+      "demo_weight_40-60 kg",
+      "reaction_animal_bite",
+      "reaction_erythema",
+      "reaction_asthenia",
+      "reaction_skin_exfoliation",
+      "reaction_contusion",
+      "reaction_inappropriate_schedule_of_product_administration",
+      "reaction_oropharyngeal_pain"
+    ],
+    "item_case_8": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_58375": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "reaction_hospitalisation",
+      "outc_ho"
+    ],
+    "item_case_8": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_66487": [
+      "demo_origin_us",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_therapeutic_response_shortened",
+      "outc_ot",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_intentional_product_misuse"
+    ],
+    "item_case_8": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_70152": [
+      "demo_origin_us",
+      "reaction_urticaria",
+      "reaction_anaphylactic_reaction",
+      "drug_omalizumab",
+      "demo_sex_f",
+      "reaction_feeling_hot",
+      "reaction_syncope",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_pruritus",
+      "reaction_vomiting",
+      "outc_ot",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_flushing"
+    ],
+    "item_case_8": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_8": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_dermatitis_atopic",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_179327": [
+      "demo_origin_us",
+      "reaction_rash_macular",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "outc_ot",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_lower_respiratory_tract_infection"
+    ],
+    "item_case_8": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_9": [
+      "drug_genotropin",
+      "reaction_device_mechanical_issue",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_1846": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "reaction_expired_device_used",
+      "demo_age_bin_teenager",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_9": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_9": [
+      "drug_genotropin",
+      "reaction_device_mechanical_issue",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_1855": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_off_label_use",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "drug_escitalopram",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "drug_vyvanse",
+      "demo_sex_m"
+    ],
+    "item_case_9": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_9": [
+      "drug_genotropin",
+      "reaction_device_mechanical_issue",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_2316": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_device_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "reaction_blood_growth_hormone_increased",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_9": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_9": [
+      "drug_genotropin",
+      "reaction_device_mechanical_issue",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_25043": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_issue",
+      "drug_genotropin",
+      "reaction_wrong_technique_in_device_usage_process",
+      "reaction_device_mechanical_issue",
+      "drug_dilaudid",
+      "drug_advil",
+      "drug_oxycodone",
+      "reaction_tibia_fracture",
+      "demo_sex_m",
+      "drug_morphine",
+      "reaction_device_delivery_system_issue",
+      "demo_age_bin_teenager",
+      "outc_ho",
+      "drug_tylenol",
+      "demo_weight_40-60 kg",
+      "reaction_poor_quality_device_used",
+      "outc_ot"
+    ],
+    "item_case_9": [
+      "outc_ho",
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_9": [
+      "drug_genotropin",
+      "reaction_device_mechanical_issue",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_82773": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "reaction_device_difficult_to_use",
+      "demo_sex_m"
+    ],
+    "item_case_9": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_9": [
+      "drug_genotropin",
+      "reaction_device_mechanical_issue",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_152669": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_poor_quality_product_administered",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered",
+      "reaction_circumstance_or_information_capable_of_leading_to_medication_error",
+      "drug_genotropin",
+      "reaction_liquid_product_physical_issue",
+      "demo_weight_above 60 kg",
+      "reaction_injection_site_extravasation",
+      "reaction_device_leakage",
+      "reaction_overdose",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_9": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_9": [
+      "drug_genotropin",
+      "reaction_device_mechanical_issue",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_155225": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "reaction_drug_ineffective",
+      "demo_age_bin_teenager",
+      "reaction_device_malfunction",
+      "demo_sex_m"
+    ],
+    "item_case_9": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_9": [
+      "drug_genotropin",
+      "reaction_device_mechanical_issue",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_157166": [
+      "demo_origin_us",
+      "reaction_device_mechanical_issue",
+      "reaction_brain_neoplasm",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_9": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_9": [
+      "drug_genotropin",
+      "reaction_device_mechanical_issue",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_180757": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_praderwilli_syndrome",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_9": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_709": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "drug_hydrocortisone",
+      "reaction_device_defective",
+      "drug_synthroid",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "drug_loratadine",
+      "drug_claravis",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_product_quality_issue",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_9424": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_60740": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_malfunction",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_80217": [
+      "demo_origin_us",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_blood_glucose_abnormal",
+      "demo_age_bin_teenager",
+      "reaction_diabetes_mellitus",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_82980": [
+      "demo_origin_us",
+      "reaction_device_loosening",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_device_power_source_issue",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_83155": [
+      "demo_origin_us",
+      "reaction_device_malfunction",
+      "reaction_product_dose_omission_in_error",
+      "reaction_product_preparation_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_86079": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_device_issue",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_drug_ineffective",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_86354": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_therapeutic_product_effect_incomplete",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_88635": [
+      "demo_origin_us",
+      "reaction_sports_injury",
+      "reaction_device_breakage",
+      "reaction_fall",
+      "reaction_lower_limb_fracture",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_material_issue",
+      "demo_weight_above 60 kg",
+      "reaction_ankle_fracture",
+      "demo_age_bin_teenager",
+      "reaction_device_use_error",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_98656": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_brain_injury",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_151217": [
+      "demo_origin_us",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_road_traffic_accident",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_152669": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_poor_quality_product_administered",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered",
+      "reaction_circumstance_or_information_capable_of_leading_to_medication_error",
+      "drug_genotropin",
+      "reaction_liquid_product_physical_issue",
+      "demo_weight_above 60 kg",
+      "reaction_injection_site_extravasation",
+      "reaction_device_leakage",
+      "reaction_overdose",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_153201": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_153524": [
+      "demo_origin_us",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_155168": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_elbow_operation",
+      "reaction_device_malfunction",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_10": [
+      "reaction_device_breakage",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_163748": [
+      "demo_origin_us",
+      "reaction_device_deployment_issue",
+      "drug_omnitrope",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_product_preparation_issue",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_accidental_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_underdose",
+      "demo_sex_m"
+    ],
+    "item_case_10": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_29": [
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_5053": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_delivery_system_issue",
+      "reaction_pain",
+      "reaction_headache",
+      "reaction_pain_in_extremity",
+      "reaction_incorrect_dose_administered_by_device",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_material_issue",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "drug_adderall",
+      "demo_sex_m"
+    ],
+    "item_case_29": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_29": [
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_10318": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_hypoglycaemia",
+      "reaction_meningitis",
+      "reaction_device_breakage",
+      "reaction_device_use_issue",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "outc_ho",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_29": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_29": [
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_13339": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_mechanical_issue",
+      "reaction_off_label_use",
+      "reaction_device_breakage",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_29": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_29": [
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_14776": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_malfunction",
+      "drug_methylphenidate",
+      "drug_cyproheptadine",
+      "reaction_device_issue",
+      "reaction_poor_quality_device_used",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "reaction_growth_retardation",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_29": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_29": [
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_20440": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_poor_quality_device_used",
+      "reaction_device_use_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_29": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_29": [
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_52841": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_poor_quality_device_used",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_29": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_29": [
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_64903": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_therapeutic_product_effect_incomplete",
+      "reaction_poor_quality_device_used",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_29": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_29": [
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_73640": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_product_prescribing_error",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_29": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_29": [
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_145028": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_poor_quality_device_used",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_29": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_29": [
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_148366": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_pneumonia",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_29": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_19575": [
+      "demo_origin_us",
+      "drug_ibuprofen",
+      "reaction_wheezing",
+      "reaction_chest_discomfort",
+      "reaction_incorrect_dose_administered",
+      "drug_sodium_chloride",
+      "drug_advair_hfa",
+      "demo_sex_f",
+      "drug_albuterol_sulfate",
+      "drug_dupixent",
+      "drug_spiriva_respimat",
+      "drug_zyrtec",
+      "demo_age_bin_child",
+      "drug_flonase",
+      "reaction_pruritus",
+      "reaction_dyspnoea",
+      "drug_magnesium_sulfate",
+      "drug_miralax",
+      "outc_ho",
+      "drug_orapred",
+      "drug_tylenol",
+      "reaction_asthma",
+      "demo_weight_20-40 kg",
+      "reaction_cough",
+      "reaction_weight_increased",
+      "drug_epipen",
+      "reaction_bronchial_wall_thickening",
+      "reaction_ear_pain",
+      "drug_prednisone"
+    ],
+    "item_case_30": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_21479": [
+      "demo_origin_us",
+      "reaction_illness",
+      "demo_weight_20-40 kg",
+      "reaction_urticaria",
+      "drug_zyrtecd",
+      "reaction_product_use_in_unapproved_indication",
+      "reaction_cough",
+      "demo_sex_f",
+      "reaction_erythema",
+      "reaction_pneumonia",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "drug_adult_multivitamin",
+      "outc_ot",
+      "reaction_eczema",
+      "drug_amoxicillin",
+      "demo_age_bin_child",
+      "reaction_pyrexia"
+    ],
+    "item_case_30": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_57571": [
+      "demo_origin_us",
+      "reaction_urticaria",
+      "drug_flovent",
+      "reaction_hypersensitivity",
+      "drug_montelukast_sodium",
+      "drug_epinephrine",
+      "demo_sex_f",
+      "drug_albuterol_sulfate",
+      "drug_cromolyn_sodium",
+      "drug_dupixent",
+      "drug_zyrtec",
+      "drug_vitamin_d3",
+      "reaction_coeliac_disease",
+      "reaction_pruritus",
+      "reaction_streptococcal_infection",
+      "drug_tacrolimus",
+      "drug_triamcinolone_acetonide",
+      "drug_esomeprazole_magnesium",
+      "demo_weight_40-60 kg",
+      "drug_clobetasol",
+      "outc_ot",
+      "drug_fluticasone_propionate",
+      "demo_age_bin_child"
+    ],
+    "item_case_30": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_59225": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_condition_aggravated",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "demo_sex_f",
+      "reaction_anxiety",
+      "reaction_affective_disorder",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_emotional_disorder",
+      "reaction_eczema",
+      "reaction_insomnia",
+      "reaction_conjunctivitis",
+      "outc_ds",
+      "reaction_rash",
+      "demo_age_bin_child"
+    ],
+    "item_case_30": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_59548": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_diarrhoea",
+      "outc_ot",
+      "reaction_scratch",
+      "reaction_eczema",
+      "outc_ho",
+      "demo_age_bin_child",
+      "reaction_pyrexia",
+      "reaction_salmonellosis"
+    ],
+    "item_case_30": [
+      "outc_ot",
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_83427": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "reaction_treatment_noncompliance",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_mood_altered",
+      "reaction_pruritus",
+      "reaction_initial_insomnia",
+      "drug_no_study_drug_given_mkt",
+      "outc_ds",
+      "demo_age_bin_child"
+    ],
+    "item_case_30": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_88324": [
+      "demo_origin_us",
+      "reaction_sleep_disorder",
+      "reaction_suicidal_ideation",
+      "drug_benadryl_allergy",
+      "reaction_hyperphagia",
+      "reaction_depression",
+      "reaction_dry_skin",
+      "reaction_condition_aggravated",
+      "demo_sex_f",
+      "drug_albuterol",
+      "drug_dupixent",
+      "reaction_skin_fissures",
+      "reaction_disturbance_in_attention",
+      "reaction_eczema",
+      "drug_proair_hfa",
+      "reaction_injection_site_swelling",
+      "reaction_irritability",
+      "reaction_pruritus",
+      "reaction_aggression",
+      "demo_weight_40-60 kg",
+      "reaction_asthma",
+      "reaction_therapeutic_response_shortened",
+      "outc_ot",
+      "reaction_skin_exfoliation",
+      "demo_age_bin_child",
+      "reaction_decreased_interest"
+    ],
+    "item_case_30": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_89392": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "demo_sex_f",
+      "reaction_incorrect_dose_administered",
+      "drug_dupixent",
+      "reaction_mood_altered",
+      "reaction_pruritus",
+      "reaction_eczema",
+      "outc_ds",
+      "demo_age_bin_child"
+    ],
+    "item_case_30": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_90474": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "demo_sex_f",
+      "reaction_cellulitis_orbital",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "outc_ot",
+      "reaction_eczema",
+      "reaction_conjunctivitis",
+      "demo_age_bin_child"
+    ],
+    "item_case_30": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_168141": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_middle_insomnia",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "demo_sex_f",
+      "reaction_affective_disorder",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_emotional_disorder",
+      "reaction_eczema",
+      "reaction_initial_insomnia",
+      "outc_ds",
+      "demo_age_bin_child"
+    ],
+    "item_case_30": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_168547": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "demo_sex_f",
+      "reaction_affective_disorder",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_emotional_disorder",
+      "reaction_eczema",
+      "reaction_drug_ineffective",
+      "outc_ds",
+      "demo_age_bin_child"
+    ],
+    "item_case_30": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_30": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_174196": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "outc_ho",
+      "demo_age_bin_child",
+      "reaction_skin_discolouration"
+    ],
+    "item_case_30": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_10597": [
+      "demo_origin_us",
+      "reaction_dry_skin",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_therapeutic_response_decreased",
+      "reaction_skin_fissures",
+      "drug_epipen_epinephrine",
+      "drug_vitamin_d3",
+      "reaction_skin_haemorrhage",
+      "drug_claritin",
+      "reaction_thyroid_hormones_increased",
+      "drug_zinc",
+      "reaction_pruritus",
+      "drug_tacrolimus",
+      "drug_hydroxyzine_hydrochloride",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "demo_weight_40-60 kg",
+      "drug_proair_respiclick",
+      "outc_ot",
+      "drug_vitamin_c",
+      "reaction_skin_exfoliation",
+      "reaction_hypothyroidism"
+    ],
+    "item_case_31": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_13072": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "outc_ot",
+      "reaction_dyspnoea",
+      "reaction_dysphonia",
+      "reaction_lacrimation_increased",
+      "demo_age_bin_teenager",
+      "reaction_rash"
+    ],
+    "item_case_31": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_30379": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "drug_proair_hfa",
+      "drug_glycol_p",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_constipation",
+      "reaction_pruritus",
+      "reaction_product_dose_omission_issue",
+      "drug_polyethylene_glycol_macrogol",
+      "reaction_product_use_issue",
+      "demo_age_bin_teenager",
+      "outc_ho"
+    ],
+    "item_case_31": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_33310": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_urticaria",
+      "reaction_abdominal_pain",
+      "demo_sex_f",
+      "drug_clobetasol",
+      "drug_dupixent",
+      "reaction_therapeutic_response_decreased",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "reaction_skin_discolouration",
+      "outc_ho",
+      "reaction_inappropriate_schedule_of_product_administration"
+    ],
+    "item_case_31": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_36466": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_condition_aggravated",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "demo_sex_f",
+      "reaction_affective_disorder",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_emotional_disorder",
+      "reaction_eczema",
+      "reaction_initial_insomnia",
+      "demo_age_bin_teenager",
+      "outc_ds"
+    ],
+    "item_case_31": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_36987": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_eczema",
+      "demo_age_bin_teenager",
+      "outc_ds"
+    ],
+    "item_case_31": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_39892": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_cough",
+      "demo_sex_f",
+      "reaction_nasal_congestion",
+      "reaction_pain_in_extremity",
+      "reaction_pneumonia",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "outc_ot",
+      "reaction_scratch",
+      "reaction_eczema",
+      "reaction_skin_haemorrhage",
+      "reaction_skin_exfoliation",
+      "demo_age_bin_teenager",
+      "reaction_stress",
+      "reaction_dry_skin",
+      "reaction_nasopharyngitis"
+    ],
+    "item_case_31": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_48990": [
+      "demo_origin_us",
+      "reaction_sleep_disorder",
+      "reaction_dry_skin",
+      "demo_sex_f",
+      "drug_albuterol_sulfate",
+      "drug_dupixent",
+      "drug_singulair",
+      "reaction_skin_fissures",
+      "drug_zyrtec",
+      "reaction_haemorrhage",
+      "drug_aveeno_antiitch_calaminecamphorpramocaine_hydrochloride",
+      "reaction_pruritus",
+      "drug_vanicream",
+      "drug_veg_omega_3",
+      "reaction_product_use_issue",
+      "demo_age_bin_teenager",
+      "drug_covid19_vaccine",
+      "demo_weight_40-60 kg",
+      "drug_flovent_hfa",
+      "drug_moxifloxacintriamcinolone",
+      "outc_ot",
+      "drug_benadryl"
+    ],
+    "item_case_31": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_54227": [
+      "demo_origin_us",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "reaction_pain_in_extremity",
+      "reaction_product_preparation_error",
+      "reaction_dry_skin",
+      "reaction_injection_site_pain",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_skin_fissures",
+      "reaction_facial_pain",
+      "reaction_skin_haemorrhage",
+      "outc_ds",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "reaction_fatigue",
+      "demo_weight_40-60 kg",
+      "reaction_animal_bite",
+      "reaction_erythema",
+      "reaction_asthenia",
+      "reaction_skin_exfoliation",
+      "reaction_contusion",
+      "reaction_inappropriate_schedule_of_product_administration",
+      "reaction_oropharyngeal_pain"
+    ],
+    "item_case_31": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_54339": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "reaction_sleep_disorder",
+      "demo_sex_f",
+      "reaction_affective_disorder",
+      "reaction_erythema",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_eczema",
+      "demo_age_bin_teenager",
+      "outc_ds",
+      "reaction_inappropriate_schedule_of_product_administration"
+    ],
+    "item_case_31": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_55083": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_injection_site_pain",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "demo_sex_f",
+      "reaction_fear_of_injection",
+      "drug_dupixent",
+      "reaction_product_preparation_error",
+      "reaction_pruritus",
+      "reaction_eczema",
+      "demo_age_bin_teenager",
+      "outc_ds"
+    ],
+    "item_case_31": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_55734": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_sleep_disorder_due_to_a_general_medical_condition",
+      "reaction_eye_irritation",
+      "reaction_ocular_hyperaemia",
+      "reaction_cataract",
+      "demo_sex_f",
+      "reaction_erythema",
+      "reaction_eye_swelling",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "outc_ot",
+      "reaction_skin_irritation",
+      "demo_age_bin_teenager",
+      "reaction_visual_impairment"
+    ],
+    "item_case_31": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_55977": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "outc_ho",
+      "reaction_mental_disorder",
+      "reaction_menstruation_irregular",
+      "reaction_product_use_in_unapproved_indication",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_fungal_skin_infection",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "reaction_hospitalisation",
+      "reaction_therapeutic_product_effect_incomplete",
+      "reaction_skin_texture_abnormal",
+      "reaction_skin_discolouration",
+      "reaction_musculoskeletal_stiffness"
+    ],
+    "item_case_31": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_56488": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_bipolar_disorder",
+      "reaction_middle_insomnia",
+      "demo_sex_f",
+      "reaction_autism_spectrum_disorder",
+      "reaction_thyroid_disorder",
+      "drug_dupixent",
+      "reaction_somnolence",
+      "reaction_pruritus",
+      "reaction_asthenia",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_fatigue",
+      "reaction_dry_skin"
+    ],
+    "item_case_31": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_56566": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_blindness",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_skin_fissures",
+      "outc_ot",
+      "demo_age_bin_teenager"
+    ],
+    "item_case_31": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_31": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_57519": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_swelling_face",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "outc_ho"
+    ],
+    "item_case_31": [
+      "outc_ot",
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_10597": [
+      "demo_origin_us",
+      "reaction_dry_skin",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_therapeutic_response_decreased",
+      "reaction_skin_fissures",
+      "drug_epipen_epinephrine",
+      "drug_vitamin_d3",
+      "reaction_skin_haemorrhage",
+      "drug_claritin",
+      "reaction_thyroid_hormones_increased",
+      "drug_zinc",
+      "reaction_pruritus",
+      "drug_tacrolimus",
+      "drug_hydroxyzine_hydrochloride",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "demo_weight_40-60 kg",
+      "drug_proair_respiclick",
+      "outc_ot",
+      "drug_vitamin_c",
+      "reaction_skin_exfoliation",
+      "reaction_hypothyroidism"
+    ],
+    "item_case_32": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_13072": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "outc_ot",
+      "reaction_dyspnoea",
+      "reaction_dysphonia",
+      "reaction_lacrimation_increased",
+      "demo_age_bin_teenager",
+      "reaction_rash"
+    ],
+    "item_case_32": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_30379": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "drug_proair_hfa",
+      "drug_glycol_p",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_constipation",
+      "reaction_pruritus",
+      "reaction_product_dose_omission_issue",
+      "drug_polyethylene_glycol_macrogol",
+      "reaction_product_use_issue",
+      "demo_age_bin_teenager",
+      "outc_ho"
+    ],
+    "item_case_32": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_33310": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_urticaria",
+      "reaction_abdominal_pain",
+      "demo_sex_f",
+      "drug_clobetasol",
+      "drug_dupixent",
+      "reaction_therapeutic_response_decreased",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "reaction_skin_discolouration",
+      "outc_ho",
+      "reaction_inappropriate_schedule_of_product_administration"
+    ],
+    "item_case_32": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_36466": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_condition_aggravated",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "demo_sex_f",
+      "reaction_affective_disorder",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_emotional_disorder",
+      "reaction_eczema",
+      "reaction_initial_insomnia",
+      "demo_age_bin_teenager",
+      "outc_ds"
+    ],
+    "item_case_32": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_36987": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_eczema",
+      "demo_age_bin_teenager",
+      "outc_ds"
+    ],
+    "item_case_32": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_39892": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_cough",
+      "demo_sex_f",
+      "reaction_nasal_congestion",
+      "reaction_pain_in_extremity",
+      "reaction_pneumonia",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "outc_ot",
+      "reaction_scratch",
+      "reaction_eczema",
+      "reaction_skin_haemorrhage",
+      "reaction_skin_exfoliation",
+      "demo_age_bin_teenager",
+      "reaction_stress",
+      "reaction_dry_skin",
+      "reaction_nasopharyngitis"
+    ],
+    "item_case_32": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_48990": [
+      "demo_origin_us",
+      "reaction_sleep_disorder",
+      "reaction_dry_skin",
+      "demo_sex_f",
+      "drug_albuterol_sulfate",
+      "drug_dupixent",
+      "drug_singulair",
+      "reaction_skin_fissures",
+      "drug_zyrtec",
+      "reaction_haemorrhage",
+      "drug_aveeno_antiitch_calaminecamphorpramocaine_hydrochloride",
+      "reaction_pruritus",
+      "drug_vanicream",
+      "drug_veg_omega_3",
+      "reaction_product_use_issue",
+      "demo_age_bin_teenager",
+      "drug_covid19_vaccine",
+      "demo_weight_40-60 kg",
+      "drug_flovent_hfa",
+      "drug_moxifloxacintriamcinolone",
+      "outc_ot",
+      "drug_benadryl"
+    ],
+    "item_case_32": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_54227": [
+      "demo_origin_us",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "reaction_pain_in_extremity",
+      "reaction_product_preparation_error",
+      "reaction_dry_skin",
+      "reaction_injection_site_pain",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_skin_fissures",
+      "reaction_facial_pain",
+      "reaction_skin_haemorrhage",
+      "outc_ds",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "reaction_fatigue",
+      "demo_weight_40-60 kg",
+      "reaction_animal_bite",
+      "reaction_erythema",
+      "reaction_asthenia",
+      "reaction_skin_exfoliation",
+      "reaction_contusion",
+      "reaction_inappropriate_schedule_of_product_administration",
+      "reaction_oropharyngeal_pain"
+    ],
+    "item_case_32": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_54339": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "reaction_sleep_disorder",
+      "demo_sex_f",
+      "reaction_affective_disorder",
+      "reaction_erythema",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_eczema",
+      "demo_age_bin_teenager",
+      "outc_ds",
+      "reaction_inappropriate_schedule_of_product_administration"
+    ],
+    "item_case_32": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_55083": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_injection_site_pain",
+      "reaction_loss_of_personal_independence_in_daily_activities",
+      "demo_sex_f",
+      "reaction_fear_of_injection",
+      "drug_dupixent",
+      "reaction_product_preparation_error",
+      "reaction_pruritus",
+      "reaction_eczema",
+      "demo_age_bin_teenager",
+      "outc_ds"
+    ],
+    "item_case_32": [
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_55734": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_sleep_disorder_due_to_a_general_medical_condition",
+      "reaction_eye_irritation",
+      "reaction_ocular_hyperaemia",
+      "reaction_cataract",
+      "demo_sex_f",
+      "reaction_erythema",
+      "reaction_eye_swelling",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "outc_ot",
+      "reaction_skin_irritation",
+      "demo_age_bin_teenager",
+      "reaction_visual_impairment"
+    ],
+    "item_case_32": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_55977": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "outc_ho",
+      "reaction_mental_disorder",
+      "reaction_menstruation_irregular",
+      "reaction_product_use_in_unapproved_indication",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_fungal_skin_infection",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "reaction_hospitalisation",
+      "reaction_therapeutic_product_effect_incomplete",
+      "reaction_skin_texture_abnormal",
+      "reaction_skin_discolouration",
+      "reaction_musculoskeletal_stiffness"
+    ],
+    "item_case_32": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_56488": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_bipolar_disorder",
+      "reaction_middle_insomnia",
+      "demo_sex_f",
+      "reaction_autism_spectrum_disorder",
+      "reaction_thyroid_disorder",
+      "drug_dupixent",
+      "reaction_somnolence",
+      "reaction_pruritus",
+      "reaction_asthenia",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_fatigue",
+      "reaction_dry_skin"
+    ],
+    "item_case_32": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_56566": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_blindness",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "reaction_skin_fissures",
+      "outc_ot",
+      "demo_age_bin_teenager"
+    ],
+    "item_case_32": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_57519": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_swelling_face",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_pruritus",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "outc_ho"
+    ],
+    "item_case_32": [
+      "outc_ot",
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_70152": [
+      "demo_origin_us",
+      "reaction_urticaria",
+      "reaction_anaphylactic_reaction",
+      "drug_omalizumab",
+      "demo_sex_f",
+      "reaction_feeling_hot",
+      "reaction_syncope",
+      "drug_dupixent",
+      "reaction_dermatitis_atopic",
+      "reaction_pruritus",
+      "reaction_vomiting",
+      "outc_ot",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_flushing"
+    ],
+    "item_case_32": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_168479": [
+      "demo_origin_us",
+      "reaction_urticaria",
+      "drug_nexplanon",
+      "demo_sex_f",
+      "reaction_anxiety",
+      "reaction_erythema",
+      "drug_dupixent",
+      "drug_sertraline",
+      "drug_epipen",
+      "drug_fexofenadine",
+      "reaction_pruritus",
+      "outc_ri",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_flushing",
+      "reaction_throat_tightness"
+    ],
+    "item_case_32": [
+      "outc_ri"
+    ]
+  },
+  {
+    "itemset_32": [
+      "drug_dupixent",
+      "demo_sex_f",
+      "reaction_pruritus",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_169385": [
+      "demo_origin_us",
+      "drug_albuterol_salbutamol",
+      "reaction_ocular_hyperaemia",
+      "reaction_urticaria",
+      "reaction_sleep_disorder",
+      "reaction_oedema",
+      "reaction_swelling",
+      "demo_weight_above 60 kg",
+      "reaction_eye_discharge",
+      "reaction_dry_skin",
+      "reaction_eye_pruritus",
+      "drug_mometasone_furoate",
+      "demo_sex_f",
+      "drug_dupixent",
+      "reaction_diarrhoea",
+      "reaction_rhinorrhoea",
+      "reaction_lacrimation_increased",
+      "drug_cetaphil_soft_soap",
+      "drug_desonide",
+      "reaction_pruritus",
+      "reaction_product_dose_omission_issue",
+      "reaction_conjunctivitis",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "reaction_stress",
+      "reaction_anxiety",
+      "reaction_erythema",
+      "outc_ot",
+      "drug_elidel",
+      "drug_dermarest"
+    ],
+    "item_case_32": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_77210": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_epiphysiolysis",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_79905": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_needle_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_papilloedema",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_82773": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "reaction_device_difficult_to_use",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_84819": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_86079": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_device_issue",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_drug_ineffective",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_86354": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_therapeutic_product_effect_incomplete",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_86425": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_malfunction",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_98656": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_brain_injury",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_100657": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_epilepsy",
+      "reaction_fatigue",
+      "reaction_device_failure",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_103502": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_crohns_disease",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_151000": [
+      "demo_origin_us",
+      "drug_olanzapine",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_anxiety",
+      "reaction_device_issue",
+      "reaction_hallucination",
+      "drug_sertraline",
+      "drug_hydroxyzine",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_intentional_device_misuse",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_152669": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_poor_quality_product_administered",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered",
+      "reaction_circumstance_or_information_capable_of_leading_to_medication_error",
+      "drug_genotropin",
+      "reaction_liquid_product_physical_issue",
+      "demo_weight_above 60 kg",
+      "reaction_injection_site_extravasation",
+      "reaction_device_leakage",
+      "reaction_overdose",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_153201": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_155168": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_elbow_operation",
+      "reaction_device_malfunction",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_155225": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "reaction_drug_ineffective",
+      "demo_age_bin_teenager",
+      "reaction_device_malfunction",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_159880": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_foot_fracture",
+      "reaction_limb_operation",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_power_source_issue",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_163622": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_information_output_issue",
+      "reaction_hypothyroidism",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_163748": [
+      "demo_origin_us",
+      "reaction_device_deployment_issue",
+      "drug_omnitrope",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_product_preparation_issue",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_accidental_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_underdose",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_180757": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_praderwilli_syndrome",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_33": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_182066": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_weight_decreased",
+      "reaction_device_physical_property_issue",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_sex_m"
+    ],
+    "item_case_33": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_77210": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_epiphysiolysis",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_79905": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_needle_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_papilloedema",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_82773": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "reaction_device_difficult_to_use",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_84819": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_86079": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_device_issue",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_drug_ineffective",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_86354": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_therapeutic_product_effect_incomplete",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_86425": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_malfunction",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_98656": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_brain_injury",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_100657": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_epilepsy",
+      "reaction_fatigue",
+      "reaction_device_failure",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_103502": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_crohns_disease",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_151000": [
+      "demo_origin_us",
+      "drug_olanzapine",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_anxiety",
+      "reaction_device_issue",
+      "reaction_hallucination",
+      "drug_sertraline",
+      "drug_hydroxyzine",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_intentional_device_misuse",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_152669": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_poor_quality_product_administered",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered",
+      "reaction_circumstance_or_information_capable_of_leading_to_medication_error",
+      "drug_genotropin",
+      "reaction_liquid_product_physical_issue",
+      "demo_weight_above 60 kg",
+      "reaction_injection_site_extravasation",
+      "reaction_device_leakage",
+      "reaction_overdose",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_153201": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_155168": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_elbow_operation",
+      "reaction_device_malfunction",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_155225": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "reaction_drug_ineffective",
+      "demo_age_bin_teenager",
+      "reaction_device_malfunction",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_159880": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_foot_fracture",
+      "reaction_limb_operation",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_power_source_issue",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_163622": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_information_output_issue",
+      "reaction_hypothyroidism",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_163748": [
+      "demo_origin_us",
+      "reaction_device_deployment_issue",
+      "drug_omnitrope",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_product_preparation_issue",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_accidental_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_underdose",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_180757": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_praderwilli_syndrome",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_34": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_age_bin_teenager",
+      "demo_sex_m",
+      "drug_genotropin",
+      "demo_origin_us",
+      "demo_weight_above 60 kg"
+    ],
+    "Outcome_182066": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_weight_decreased",
+      "reaction_device_physical_property_issue",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_sex_m"
+    ],
+    "item_case_34": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_1095": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_mechanical_issue",
+      "demo_sex_f",
+      "reaction_circumstance_or_information_capable_of_leading_to_medication_error",
+      "drug_genotropin",
+      "outc_ot",
+      "reaction_device_leakage",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_age_bin_child",
+      "reaction_food_allergy"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_2496": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_blood_glucose_decreased",
+      "demo_sex_f",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_child",
+      "reaction_device_breakage"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_4991": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_caecostomy",
+      "reaction_pain",
+      "demo_sex_f",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "outc_ho",
+      "demo_age_bin_child"
+    ],
+    "item_case_35": [
+      "outc_ot",
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_11538": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_product_storage_error",
+      "reaction_headache",
+      "demo_sex_f",
+      "reaction_device_use_error",
+      "drug_genotropin",
+      "reaction_muscular_weakness",
+      "outc_ho",
+      "demo_age_bin_child",
+      "reaction_pyrexia"
+    ],
+    "item_case_35": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_16166": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_mechanical_issue",
+      "reaction_headache",
+      "demo_sex_f",
+      "reaction_pain_in_extremity",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_child"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_16327": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "demo_sex_f",
+      "drug_genotropin",
+      "reaction_device_material_issue",
+      "reaction_expired_device_used",
+      "outc_ho",
+      "drug_melatonin",
+      "demo_age_bin_child",
+      "drug_guanfacine",
+      "drug_adderall",
+      "reaction_device_breakage"
+    ],
+    "item_case_35": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_20870": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_mechanical_issue",
+      "demo_sex_f",
+      "reaction_device_physical_property_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_glucocorticoid_deficiency",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "reaction_device_breakage"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_22774": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_delivery_system_issue",
+      "reaction_injection_site_pain",
+      "demo_sex_f",
+      "reaction_poor_quality_device_used",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "outc_ds",
+      "demo_age_bin_child",
+      "reaction_device_breakage"
+    ],
+    "item_case_35": [
+      "outc_ot",
+      "outc_ds"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_23470": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_mechanical_issue",
+      "demo_sex_f",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_child",
+      "reaction_device_breakage"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_24669": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_mechanical_issue",
+      "demo_sex_f",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_drug_ineffective",
+      "demo_age_bin_child",
+      "reaction_device_breakage"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_30166": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_device_malfunction",
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "outc_ot",
+      "drug_genotropin",
+      "outc_ho",
+      "demo_age_bin_child"
+    ],
+    "item_case_35": [
+      "outc_ot",
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_30227": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_off_label_use",
+      "demo_sex_f",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_arthropathy",
+      "demo_age_bin_child"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_33692": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_device_malfunction",
+      "reaction_device_mechanical_issue",
+      "demo_sex_f",
+      "reaction_device_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "reaction_poor_quality_device_used",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "reaction_device_breakage"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_41855": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_expired_device_used",
+      "reaction_epilepsy",
+      "demo_age_bin_child",
+      "reaction_device_power_source_issue"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_57670": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "demo_sex_f",
+      "reaction_poor_quality_device_used",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_child",
+      "reaction_device_breakage"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_86116": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "demo_sex_f",
+      "reaction_incorrect_dose_administered_by_device",
+      "drug_genotropin",
+      "reaction_blood_glucose_abnormal",
+      "outc_ho",
+      "demo_age_bin_child"
+    ],
+    "item_case_35": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_94339": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "reaction_device_breakage"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_35": [
+      "reaction_drug_dose_omission_by_device",
+      "demo_sex_f",
+      "demo_age_bin_child",
+      "drug_genotropin",
+      "demo_origin_us"
+    ],
+    "Outcome_156012": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "drug_methylphenidate",
+      "reaction_device_mechanical_issue",
+      "demo_sex_f",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_material_issue",
+      "reaction_drug_ineffective",
+      "drug_fluoxetine",
+      "demo_age_bin_child",
+      "drug_guanfacine",
+      "reaction_device_breakage"
+    ],
+    "item_case_35": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_1846": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "reaction_expired_device_used",
+      "demo_age_bin_teenager",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_1855": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_off_label_use",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "drug_escitalopram",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "drug_vyvanse",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_2316": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_device_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "reaction_blood_growth_hormone_increased",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_5367": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_physical_property_issue",
+      "reaction_appendicitis",
+      "drug_genotropin",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_9456": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_drug_effect_less_than_expected",
+      "demo_age_bin_teenager",
+      "reaction_device_malfunction",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_9457": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_defective",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_9458": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_defective",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_9460": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_teenager",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_18551": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_joint_injury",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_teenager",
+      "reaction_device_occlusion",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_25043": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_issue",
+      "drug_genotropin",
+      "reaction_wrong_technique_in_device_usage_process",
+      "reaction_device_mechanical_issue",
+      "drug_dilaudid",
+      "drug_advil",
+      "drug_oxycodone",
+      "reaction_tibia_fracture",
+      "demo_sex_m",
+      "drug_morphine",
+      "reaction_device_delivery_system_issue",
+      "demo_age_bin_teenager",
+      "outc_ho",
+      "drug_tylenol",
+      "demo_weight_40-60 kg",
+      "reaction_poor_quality_device_used",
+      "outc_ot"
+    ],
+    "item_case_36": [
+      "outc_ho",
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_60738": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_brain_neoplasm",
+      "reaction_device_use_issue",
+      "drug_genotropin",
+      "demo_age_bin_teenager",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_60740": [
+      "demo_origin_us",
+      "demo_weight_40-60 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_malfunction",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_77210": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_epiphysiolysis",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_79905": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_needle_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_papilloedema",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_82773": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_rash",
+      "reaction_device_difficult_to_use",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_84819": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_86079": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_device_issue",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_drug_ineffective",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_86354": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_therapeutic_product_effect_incomplete",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_86425": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_malfunction",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_98656": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_brain_injury",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_100657": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_epilepsy",
+      "reaction_fatigue",
+      "reaction_device_failure",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_103502": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_crohns_disease",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_151000": [
+      "demo_origin_us",
+      "drug_olanzapine",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_anxiety",
+      "reaction_device_issue",
+      "reaction_hallucination",
+      "drug_sertraline",
+      "drug_hydroxyzine",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_intentional_device_misuse",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_152669": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_poor_quality_product_administered",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered",
+      "reaction_circumstance_or_information_capable_of_leading_to_medication_error",
+      "drug_genotropin",
+      "reaction_liquid_product_physical_issue",
+      "demo_weight_above 60 kg",
+      "reaction_injection_site_extravasation",
+      "reaction_device_leakage",
+      "reaction_overdose",
+      "outc_ot",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_153201": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_155168": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_elbow_operation",
+      "reaction_device_malfunction",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_155225": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "reaction_drug_ineffective",
+      "demo_age_bin_teenager",
+      "reaction_device_malfunction",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_159880": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_foot_fracture",
+      "reaction_limb_operation",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_device_power_source_issue",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_163622": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_information_output_issue",
+      "reaction_hypothyroidism",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_163748": [
+      "demo_origin_us",
+      "reaction_device_deployment_issue",
+      "drug_omnitrope",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_product_preparation_issue",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "reaction_accidental_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_teenager",
+      "reaction_device_breakage",
+      "reaction_underdose",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_180757": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_praderwilli_syndrome",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "outc_ho",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_36": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_teenager",
+      "demo_origin_us"
+    ],
+    "Outcome_182066": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_weight_decreased",
+      "reaction_device_physical_property_issue",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_weight_above 60 kg",
+      "demo_age_bin_teenager",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_sex_m"
+    ],
+    "item_case_36": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_29790": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_device_issue",
+      "drug_genotropin",
+      "reaction_behaviour_disorder",
+      "outc_ho",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_41868": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_product_packaging_quantity_issue",
+      "reaction_off_label_use",
+      "reaction_device_physical_property_issue",
+      "reaction_product_odour_abnormal",
+      "outc_ot",
+      "drug_genotropin",
+      "outc_ho",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot",
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_52841": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_poor_quality_device_used",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_53372": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_poor_quality_device_used",
+      "drug_genotropin",
+      "outc_ho",
+      "reaction_neurofibromatosis",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_65044": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_suicide_attempt",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_67284": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_drug_level_decreased",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_70804": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_tonsillar_disorder",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_72192": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_device_mechanical_issue",
+      "drug_prograf",
+      "reaction_incorrect_dose_administered_by_device",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_overdose",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_72253": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_device_mechanical_issue",
+      "reaction_needle_issue",
+      "reaction_device_use_issue",
+      "reaction_injury_associated_with_device",
+      "reaction_intentional_dose_omission",
+      "drug_genotropin",
+      "outc_ot",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_72255": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_needle_issue",
+      "reaction_device_use_issue",
+      "reaction_intentional_dose_omission",
+      "reaction_injury_associated_with_device",
+      "drug_genotropin",
+      "outc_ot",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_73640": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_product_prescribing_error",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_145028": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_poor_quality_device_used",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_148366": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_pneumonia",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_154937": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_product_knowledge_deficit",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_37": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us",
+      "demo_weight_40-60 kg"
+    ],
+    "Outcome_154942": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_syncope",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_blood_magnesium_decreased",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_37": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_3942": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_mechanical_issue",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_accidental_overdose",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_5053": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_delivery_system_issue",
+      "reaction_pain",
+      "reaction_headache",
+      "reaction_pain_in_extremity",
+      "reaction_incorrect_dose_administered_by_device",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_material_issue",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "drug_adderall",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_10318": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_hypoglycaemia",
+      "reaction_meningitis",
+      "reaction_device_breakage",
+      "reaction_device_use_issue",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "outc_ho",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_13020": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_operational_issue",
+      "outc_ho",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot",
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_13339": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_mechanical_issue",
+      "reaction_off_label_use",
+      "reaction_device_breakage",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_14776": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_malfunction",
+      "drug_methylphenidate",
+      "drug_cyproheptadine",
+      "reaction_device_issue",
+      "reaction_poor_quality_device_used",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "reaction_growth_retardation",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_19446": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_breakage",
+      "reaction_device_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_difficult_to_use",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_20440": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_poor_quality_device_used",
+      "reaction_device_use_issue",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_21706": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_breakage",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_21787": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_product_prescribing_error",
+      "drug_methylphenidate",
+      "reaction_device_mechanical_issue",
+      "reaction_poor_quality_device_used",
+      "reaction_insulinlike_growth_factor_decreased",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_21800": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "reaction_device_breakage",
+      "drug_synthroid",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "drug_vitamins_nos",
+      "reaction_neoplasm_malignant",
+      "drug_thyroxine",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_age_bin_child",
+      "drug_aspirin_acetylsalicylic_acid",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_22985": [
+      "demo_origin_us",
+      "reaction_device_malfunction",
+      "demo_weight_20-40 kg",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_product_knowledge_deficit",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_23987": [
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "demo_weight_20-40 kg",
+      "drug_ipratropium_bromide",
+      "drug_albuterol_sulfate",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "drug_budesonideformoterol",
+      "drug_loratadine",
+      "drug_lansoprazole",
+      "drug_triamcinolone_acetonide",
+      "drug_zyrtec",
+      "demo_age_bin_child",
+      "reaction_sinusitis",
+      "drug_montelukast",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_29790": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_device_issue",
+      "drug_genotropin",
+      "reaction_behaviour_disorder",
+      "outc_ho",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_41868": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_product_packaging_quantity_issue",
+      "reaction_off_label_use",
+      "reaction_device_physical_property_issue",
+      "reaction_product_odour_abnormal",
+      "outc_ot",
+      "drug_genotropin",
+      "outc_ho",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot",
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_52841": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_poor_quality_device_used",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_53372": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_poor_quality_device_used",
+      "drug_genotropin",
+      "outc_ho",
+      "reaction_neurofibromatosis",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ho"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_65044": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_suicide_attempt",
+      "reaction_device_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_67284": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_drug_level_decreased",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_70804": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_tonsillar_disorder",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_72192": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_device_mechanical_issue",
+      "drug_prograf",
+      "reaction_incorrect_dose_administered_by_device",
+      "reaction_device_use_error",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_overdose",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_72253": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_device_mechanical_issue",
+      "reaction_needle_issue",
+      "reaction_device_use_issue",
+      "reaction_injury_associated_with_device",
+      "reaction_intentional_dose_omission",
+      "drug_genotropin",
+      "outc_ot",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_72255": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_needle_issue",
+      "reaction_device_use_issue",
+      "reaction_intentional_dose_omission",
+      "reaction_injury_associated_with_device",
+      "drug_genotropin",
+      "outc_ot",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_73640": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_product_prescribing_error",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_145028": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_breakage",
+      "reaction_poor_quality_device_used",
+      "reaction_device_use_issue",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_overdose",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_148366": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_mechanical_issue",
+      "reaction_pneumonia",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_device_leakage",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_154937": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_device_delivery_system_issue",
+      "reaction_product_knowledge_deficit",
+      "reaction_incorrect_dose_administered_by_device",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_wrong_technique_in_device_usage_process",
+      "demo_age_bin_child",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  },
+  {
+    "itemset_38": [
+      "reaction_drug_dose_omission_by_device",
+      "drug_genotropin",
+      "demo_sex_m",
+      "demo_age_bin_child",
+      "demo_origin_us"
+    ],
+    "Outcome_154942": [
+      "demo_weight_40-60 kg",
+      "demo_origin_us",
+      "reaction_drug_dose_omission_by_device",
+      "reaction_syncope",
+      "outc_ot",
+      "drug_genotropin",
+      "reaction_blood_magnesium_decreased",
+      "demo_age_bin_child",
+      "reaction_device_information_output_issue",
+      "demo_sex_m"
+    ],
+    "item_case_38": [
+      "outc_ot"
+    ]
+  }
+]

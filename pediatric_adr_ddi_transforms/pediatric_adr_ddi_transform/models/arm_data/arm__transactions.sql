@@ -6,7 +6,7 @@ with base as (
         demo.age_bin_re as age_bin,
         demo.wt_bin_re as wt_bin,
         demo.sex_re,
-        demo.origin_country_re as origin_country,
+        -- demo.origin_country_re as origin_country,
         drug.drugs,
         reac.reactions,
         outc.outcomes
@@ -32,7 +32,7 @@ final as (
                         array(age_bin),
                         array(wt_bin),
                         array(sex_re),
-                        array(origin_country),
+                        -- array(origin_country),
                         -- Split existing strings back into arrays
                         split(drugs, ', '),
                         split(reactions, ', '),
