@@ -14,7 +14,9 @@ with base_filtering as (
         and not exists(consequent, y -> y ilike 'outc_%')
 )
 
-select *
+select 
+    *,
+    sha2(concat_ws('||', *),256) id_col
 from base_filtering
 where confidence < 1
 order by lift desc, reac_count desc
