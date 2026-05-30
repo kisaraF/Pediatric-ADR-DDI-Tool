@@ -13,3 +13,6 @@ dependencies = [
 
 [tool.uv.sources]
 pediatric-adr-shared = { path = "../assets" }
+
+[tool.setuptools]
+py-modules = ["batch_update_drugs", "fetch_drug_match"]

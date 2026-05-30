@@ -25,3 +25,10 @@ rule_mining/2025q3_cleansed.parquet
 rule_mining/mined_rules/*
 !rule_mining/mined_rules/structure_file.md
 rule_mining/*.parquet
+
+
+dabs/
+ingestion_modules/ingestion_modules.egg-info
+ingestion_modules/build
+rxnorm_modules/rxnorm_modules.egg-info
+rxnorm_modules/build
