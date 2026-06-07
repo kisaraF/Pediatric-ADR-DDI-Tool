@@ -37,3 +37,4 @@ analytical_queries/ebgm_compute/*.csv
 analytical_queries/ebgm_compute/.RData
 analytical_queries/ebgm_compute/.Rhistory
 analytical_queries/ebgm_compute/.Rproj.user/
+.Rproj.user
