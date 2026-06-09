@@ -25,3 +25,16 @@ rule_mining/2025q3_cleansed.parquet
 rule_mining/mined_rules/*
 !rule_mining/mined_rules/structure_file.md
 rule_mining/*.parquet
+
+
+dabs/
+ingestion_modules/build/
+ingestion_modules/ingestion_modules.egg-info/
+rxnorm_modules/build/
+rxnorm_modules/rxnorm_modules.egg-info/
+
+analytical_queries/ebgm_compute/*.csv
+analytical_queries/ebgm_compute/.RData
+analytical_queries/ebgm_compute/.Rhistory
+analytical_queries/ebgm_compute/.Rproj.user/
+.Rproj.user
