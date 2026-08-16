@@ -1,7 +1,12 @@
 [project]
 name = "pediatric-adr-shared"
 version = "0.1.0"
+requires-python = ">=3.11"
 
 [build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["pediatric_adr_shared*"]

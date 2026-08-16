@@ -1,4 +1,5 @@
 .venv/
+.ruff_cache/
 Data/
 .ipynb_checkpoints/
 Future\ Work.txt
@@ -11,6 +12,7 @@ ingestion_modules/__pycache__/
 ingestion_modules/test.py
 ingestion_modules/backfill-extracts/*.zip
 pediatric_adr_ddi_transforms/logs/
+pediatric_adr_ddi_transforms/pediatric_adr_ddi_transforms.egg-info
 predict_missing_values/.venv
 predict_missing_values/.ruff_cache
 rxnorm_modules/.python-version
@@ -27,9 +29,10 @@ rule_mining/mined_rules/*
 rule_mining/*.parquet
 
 
-dabs/
+dabs_template/
+
 ingestion_modules/build/
-ingestion_modules/ingestion_modules.egg-info/
+ingestion_modules/ingestion_modules/ingestion_modules.egg-info/
 rxnorm_modules/build/
 rxnorm_modules/rxnorm_modules.egg-info/
 
@@ -37,4 +40,13 @@ analytical_queries/ebgm_compute/*.csv
 analytical_queries/ebgm_compute/.RData
 analytical_queries/ebgm_compute/.Rhistory
 analytical_queries/ebgm_compute/.Rproj.user/
+analytical_queries/Notebooks/Missing_Values_Prediction_Model_Building/Eve_Metrics
+
 .Rproj.user
+
+**/__pycache__
+**/*.egg-info/
+**/__pycache__/
+**/.python-version
+**/build/
+**/dist/
