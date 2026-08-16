@@ -1,1 +1,1 @@
-analytical_queries/Notebooks/*.ipynb linguist-documentation
+analytical_queries/Notebooks/**/*.ipynb linguist-vendored
