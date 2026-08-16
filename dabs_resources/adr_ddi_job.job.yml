@@ -1,0 +1,74 @@
+resources:
+  jobs:
+    pediatric_adr_ddi_job:
+      name: pediatric_adr_ddi_job
+
+      # trigger:
+      #   # Run this job every day, exactly one day from the last run; see https://docs.databricks.com/api/workspace/jobs/create#trigger
+      #   periodic:
+      #     interval: 1
+      #     unit: DAYS
+
+      email_notifications:
+       on_failure:
+         - kisarawenu@gmail.com
+
+      parameters:
+        - name: catalog
+          default: ${var.catalog}
+        - name: schema
+          default: ${var.schema}
+
+      tasks:
+        - task_key: ingestion_raw_data
+          python_wheel_task:
+            package_name: ingestion-modules
+            entry_point: ingest-data
+            # parameters:
+            #   - "--catalog"
+            #   - "${var.catalog}"
+            #   - "--schema"
+            #   - "${var.schema}"
+          environment_key: ingestion_default
+        - task_key: rxnorm_standardization
+          depends_on:
+            - task_key: ingestion_raw_data
+          python_wheel_task:
+            package_name: rxnorm-modules
+            entry_point: rxnorm
+          environment_key: rxnorm_default
+        - task_key: dbt_transformations
+          environment_key: dbt_default
+          depends_on:
+            - task_key: rxnorm_standardization
+          dbt_task:
+            project_directory: ../pediatric_adr_ddi_transforms/pediatric_adr_ddi_transform
+            profiles_directory: dbt_profiles
+            warehouse_id: 045b3fbaff8c7120
+            catalog: ${var.catalog}
+            schema: ${var.dbt_schema}
+            commands:
+              - "dbt debug"
+              - "dbt deps"
+              - "dbt seed"
+              - "dbt run --show-all-deprecations --no-partial-parse"           
+          
+
+      environments:
+        - environment_key: ingestion_default
+          spec:
+            environment_version: "4"
+            dependencies:
+              - ../assets/dist/*.whl
+              - ../ingestion_modules/dist/*.whl
+        - environment_key: rxnorm_default
+          spec:
+            environment_version: "4"
+            dependencies:
+              - ../assets/dist/*.whl
+              - ../rxnorm_modules/dist/*.whl
+        - environment_key: dbt_default
+          spec:
+            environment_version: "4"
+            dependencies:
+              - dbt-databricks>=1.10.9

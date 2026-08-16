@@ -30,6 +30,7 @@ rule_mining/*.parquet
 
 
 dabs_template/
+sample_dbt_dabs/
 
 ingestion_modules/build/
 ingestion_modules/ingestion_modules/ingestion_modules.egg-info/

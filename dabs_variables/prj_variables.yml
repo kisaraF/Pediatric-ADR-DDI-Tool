@@ -1,0 +1,7 @@
+variables:
+  catalog:
+    description: The catalog to use
+  schema:
+    description: The schema to use
+  dbt_schema:
+    description: The dbt schema to use for transformations
