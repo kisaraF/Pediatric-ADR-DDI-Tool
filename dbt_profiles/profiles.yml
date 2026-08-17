@@ -7,11 +7,8 @@ pediatric_adr_ddi_transform:
       catalog: pediatric_adr_events
       schema: dbt_transforms
       http_path: /sql/1.0/warehouses/045b3fbaff8c7120
-
-      # The workspace host / token are provided by Databricks
-      # see databricks.yml for the workspace host used for 'dev'
-      # host: "{{ env_var('DBT_HOST') }}"
-      # token: "{{ env_var('DBT_ACCESS_TOKEN') }}"
+      host: "{{ env_var('DBT_HOST') }}"
+      token: "{{ env_var('DBT_ACCESS_TOKEN') }}"
 
     # The production target when deployed with the Databricks CLI
     prod:
@@ -20,8 +17,5 @@ pediatric_adr_ddi_transform:
       catalog: pediatric_adr_events
       schema: prod
       http_path: /sql/1.0/warehouses/045b3fbaff8c7120
-
-      # The workspace host / token are provided by Databricks
-      # see databricks.yml for the workspace host used for 'prod'
-      # host: "{{ env_var('DBT_HOST') }}"
-      # token: "{{ env_var('DBT_ACCESS_TOKEN') }}"
+      host: "{{ env_var('DBT_HOST') }}"
+      token: "{{ env_var('DBT_ACCESS_TOKEN') }}"
