@@ -1,0 +1,76 @@
+name: CI Workflow
+on:
+  pull_request:
+    types: [opened, synchronize]
+    branches:
+      - 'main'
+    paths:
+      - 'ingestion_modules/*'
+      - 'rxnorm_modules/*'
+      - 'pediatric_adr_ddi_transforms/*'
+jobs:
+  # output-context:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: github event context output
+  #       run: echo "${{ toJSON(github.event) }}"
+  lint-code:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get code
+        uses: actions/checkout@v6
+        with:
+          sparse-checkout: |
+            assets
+            ingestion_modules
+            rxnorm_modules
+            pediatric_adr_ddi_transforms
+          # fetch-depth: 0 # full history
+      - name: install uv
+        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9
+      - name: lint python
+        run: |
+          cd ingestion_modules && uv sync && uv run ruff check .
+          cd ../rxnorm_modules && uv sync && uv run ruff check .
+      - name: lint-sql
+        run: |
+          cd pediatric_adr_ddi_transforms && uv sync
+          uv run sqlfluff lint --dialect databricks --ignore linting,parsing,templating ./pediatric_adr_ddi_transform
+  dbt-model-testing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get code
+        uses: actions/checkout@v6
+        with:
+          sparse-checkout: |
+            pediatric_adr_ddi_transforms
+            dbt_profiles
+      - name: install uv
+        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9
+      - name: run tests
+        env:
+          DBT_HOST: ${{ secrets.DBT_HOST }}
+          DBT_ACCESS_TOKEN: ${{ secrets.DBT_ACCESS_TOKEN }}
+        run: |
+          cd pediatric_adr_ddi_transforms && uv sync
+          cd pediatric_adr_ddi_transform
+          uv run dbt debug --profiles-dir ../../dbt_profiles
+          uv run dbt deps --profiles-dir ../../dbt_profiles
+          uv run dbt seed --profiles-dir ../../dbt_profiles
+          uv run dbt test --profiles-dir ../../dbt_profiles
+  bundle-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get code
+        uses: actions/checkout@v6
+      - name: install databricks cli
+        uses: databricks/setup-cli@main
+      - name: validate bundle
+        run: databricks bundle validate
+        working-directory: .
+        env:
+          DATABRICKS_TOKEN: ${{ secrets.DBT_ACCESS_TOKEN }}
+          DATABRICKS_BUNDLE_ENV: dev
+
+
+
