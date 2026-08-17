@@ -1,0 +1,45 @@
+name: CI Workflow
+on:
+  pull_request:
+    types: [opened, reopened]
+    branches:
+      - 'main'
+    paths:
+      - 'assets/*'
+      - 'ingestion_modules/*'
+      - 'rxnorm_modules/*'
+      - 'pediatric_adr_ddi_transforms/*'
+jobs:
+  output-context:
+    runs-on: ubuntu-latest
+    steps:
+      - name: github event context output
+        run: echo "${{ toJSON(github.event) }}"
+  lint-code:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get code
+        uses: actions/checkout@v6
+        with:
+          sparse-checkout: |
+            ingestion_modules
+            rxnorm_modules
+            assets
+            pediatric_adr_ddi_transforms
+          fetch-depth: 0 # full history
+      - name: lint python
+        uses: astral-sh/ruff-action@v4.1.0
+        with:
+          src: >-
+            "assets"
+            "ingestion_modules"
+            "rxnorm_modules"
+      - name: install uv
+        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9
+      - name: install sqlfluff
+        run: uv init && uv add sqlfluff
+      - name: lint sql
+        run: uv run sqlfluff --dialect databricks lint pediatric_adr_ddi_transforms/
+
+
+
