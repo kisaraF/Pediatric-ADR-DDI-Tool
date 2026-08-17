@@ -1,0 +1,23 @@
+name: CD Workflow
+on:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - 'ingestion_modules/*'
+      - 'rxnorm_modules/*'
+      - 'pediatric_adr_ddi_transforms/*'
+jobs:
+  deploy-bundle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get code
+        uses: actions/checkout@v6
+      - name: install databricks cli
+        uses: actions/setup-cli@main
+      - name: deploy bundle
+        run: databricks bundle deploy
+        working-directory: .
+        env:
+          DATABRICKS_TOKEN: ${{ secrets.DBT_ACCESS_TOKEN }}
+          DATABRICKS_BUNDLE_ENV: dev

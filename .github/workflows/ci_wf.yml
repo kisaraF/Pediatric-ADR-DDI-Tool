@@ -71,6 +71,3 @@ jobs:
         env:
           DATABRICKS_TOKEN: ${{ secrets.DBT_ACCESS_TOKEN }}
           DATABRICKS_BUNDLE_ENV: dev
-
-
-
