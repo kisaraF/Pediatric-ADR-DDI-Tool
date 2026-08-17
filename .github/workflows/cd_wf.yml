@@ -9,6 +9,19 @@ on:
       - 'pediatric_adr_ddi_transforms/*'
       - '.github/workflows/cd_wf.yml'
 jobs:
+  validate-bundle:
+    runs=on: ubuntu-latest
+    steps:
+      - name: get code
+        uses: actions/checkout@v6
+      - name: install databricks cli
+        uses: databricks/setup-cli@main
+      - name: validate bundle
+        run: databricks bundle validate
+        working-directory: .
+        env:
+          DATABRICKS_TOKEN: ${{ secrets.DBT_ACCESS_TOKEN }}
+          DATABRICKS_BUNDLE_ENV: prod
   deploy-bundle:
     runs-on: ubuntu-latest
     steps:
@@ -23,4 +36,4 @@ jobs:
         working-directory: .
         env:
           DATABRICKS_TOKEN: ${{ secrets.DBT_ACCESS_TOKEN }}
-          DATABRICKS_BUNDLE_ENV: dev
+          DATABRICKS_BUNDLE_ENV: prod
