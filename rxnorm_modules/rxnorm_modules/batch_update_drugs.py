@@ -2,7 +2,7 @@ import os
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import current_timestamp
 from pyspark.sql.types import StructType, StructField, StringType, LongType, FloatType
-from fetch_drug_match import get_drug_match
+from .fetch_drug_match import get_drug_match
 from itertools import batched
 from pediatric_adr_shared.logging_mod import init_logger
 from concurrent.futures import ThreadPoolExecutor
@@ -111,6 +111,8 @@ WHERE tgt.drug_raw IS NULL
     else:
         write_results(spark, tgt_table_name, drugs_list)
 
+def main():
+    get_drugs_list(src_table, tgt_table)
 
 if __name__ == "__main__":
-    get_drugs_list(src_table, tgt_table)
+    main()

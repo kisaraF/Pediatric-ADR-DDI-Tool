@@ -1,0 +1,21 @@
+pediatric_adr_ddi_transform:
+  target: dev # default target
+  outputs:
+    dev:
+      type: databricks
+      method: http
+      catalog: pediatric_adr_events
+      schema: dbt_transforms
+      http_path: /sql/1.0/warehouses/045b3fbaff8c7120
+      host: "{{ env_var('DBT_HOST') }}"
+      token: "{{ env_var('DBT_ACCESS_TOKEN') }}"
+
+    # The production target when deployed with the Databricks CLI
+    prod:
+      type: databricks
+      method: http
+      catalog: pediatric_adr_events
+      schema: prod
+      http_path: /sql/1.0/warehouses/045b3fbaff8c7120
+      host: "{{ env_var('DBT_HOST') }}"
+      token: "{{ env_var('DBT_ACCESS_TOKEN') }}"

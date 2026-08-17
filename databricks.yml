@@ -1,0 +1,55 @@
+# This is a Databricks asset bundle definition for dabs_template.
+# See https://docs.databricks.com/dev-tools/bundles/index.html for documentation.
+bundle:
+  name: pediatric_adr_ddi
+  uuid: a5e4a643-71aa-4df5-bdae-823f5e76f722
+
+include:
+  - dabs_resources/*.yml
+  - dabs_variables/*.yml
+
+sync:
+  include:
+    - dbt_profiles/**
+
+artifacts:
+  ingestion_py:
+    type: whl
+    build: uv build --wheel
+    path: ./ingestion_modules
+  rxnorm_py:
+    type: whl
+    build: uv build --wheel
+    path: ./rxnorm_modules
+  assets_py:
+    type: whl
+    build: uv build --wheel
+    path: ./assets
+
+targets:
+  dev:
+    # The default target uses 'mode: development' to create a development copy.
+    # - Deployed resources get prefixed with '[dev my_user_name]'
+    # - Any job schedules and triggers are paused by default.
+    # See also https://docs.databricks.com/dev-tools/bundles/deployment-modes.html.
+    mode: development
+    default: true
+    workspace:
+      host: https://dbc-3d0644b9-6ccc.cloud.databricks.com
+    variables:
+      catalog: pediatric_adr_events
+      schema: ${workspace.current_user.short_name}
+      dbt_schema: dbt_transforms
+  prod:
+    mode: production
+    workspace:
+      host: https://dbc-3d0644b9-6ccc.cloud.databricks.com
+      # We explicitly deploy to /Workspace/Users/kisarawenu@gmail.com to make sure we only have a single copy.
+      root_path: /Workspace/Users/kisarawenu@gmail.com/.bundle/${bundle.name}/${bundle.target}
+    variables:
+      catalog: pediatric_adr_events
+      schema: prod
+      dbt_schema: prod
+    permissions:
+      - user_name: kisarawenu@gmail.com
+        level: CAN_MANAGE

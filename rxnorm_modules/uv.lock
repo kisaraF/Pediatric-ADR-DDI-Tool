@@ -217,7 +217,7 @@ wheels = [
 
 [[package]]
 name = "databricks-connect"
-version = "16.4.16"
+version = "16.4.10"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "databricks-sdk" },
@@ -233,7 +233,7 @@ dependencies = [
     { name = "six" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/34/a4/007fda8405472fb0d075c33b973a7fe599e7179fcab6cc6ed49540e1bf8b/databricks_connect-16.4.16-py2.py3-none-any.whl", hash = "sha256:a9a912b83109324e0fb4524da54392e1ddcb33ddc007ec67cf54828833c985fe", size = 2504097, upload-time = "2026-05-04T11:45:16.369Z" },
+    { url = "https://files.pythonhosted.org/packages/5d/46/c94fdfd55183ba24a1dfe64bb8194352d421230de49e3cbef272fc228de5/databricks_connect-16.4.10-py2.py3-none-any.whl", hash = "sha256:ad3fb96c7aad16a5f83e5e62400f4c5fbc31cd8a7a3c0be800dad8ee26505007", size = 2463026, upload-time = "2025-12-08T12:48:00.312Z" },
 ]
 
 [[package]]
@@ -577,7 +577,7 @@ wheels = [
 [[package]]
 name = "rxnorm-modules"
 version = "0.1.0"
-source = { virtual = "." }
+source = { editable = "." }
 dependencies = [
     { name = "click" },
     { name = "databricks-connect" },

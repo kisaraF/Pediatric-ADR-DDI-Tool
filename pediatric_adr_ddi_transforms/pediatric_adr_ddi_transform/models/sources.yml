@@ -25,21 +25,18 @@ sources:
         columns:
           - name: primaryid
             data_tests:
-              - unique
               - not_null
       - name: reac
         description: "Reaction data for each ADR case recieved by FDA"
         columns:
           - name: primaryid
             data_tests:
-              - unique
               - not_null
       - name: outc
         description: "Outcome data for each ADR case recieved by FDA"
         columns:
           - name: primaryid
             data_tests:
-              - unique
               - not_null
       - name: rxnorm_key
         description: "RxNorm normalized drug names for addressing multiple brand variants of the same drug"

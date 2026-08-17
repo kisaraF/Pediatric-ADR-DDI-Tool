@@ -17,3 +17,14 @@ dependencies = [
 
 [tool.uv.sources]
 pediatric-adr-shared = { path = "../assets" }
+
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ingestion_modules*"]
+
+[project.scripts]
+ingest-data = "ingestion_modules.ingestion_zip:ingest_data"

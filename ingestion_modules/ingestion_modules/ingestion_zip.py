@@ -5,7 +5,7 @@ from zipfile import ZipFile
 from pyspark.sql import SparkSession
 import pandas as pd
 from pyspark.sql.functions import col, sha2, concat_ws, current_timestamp
-from fetch_http_link import operation
+from .fetch_http_link import operation
 from pediatric_adr_shared.logging_mod import init_logger
 import os
 import json
@@ -73,7 +73,26 @@ def pull_data(url: str):
         res.raise_for_status()
         spark = sparkSession()
         logger.info("spark session created")
-        readFile(spark, res.content)
+        write_list = readFile(spark, res.content)
+
+        for tb_id, sdf in write_list.items():
+            tb_name = f"pediatric_adr_events.raw_source.{tb_id}"
+            # read the existing table data
+            # raw_df = spark.read.table(tb_name)
+            # existing_hash = [row["_hash_id"] for row in raw_df.select("_hash_id").collect()]
+            # logger.info(f"Collecting existing hash ids for table: {tb_id}")
+            # write_df =  sdf.filter(~col("_hash_id").isin(existing_hash)) 
+            sdf.createOrReplaceTempView("raw_write")
+            spark.sql(f"""
+            MERGE INTO {tb_name} AS tgt
+            USING raw_write AS src
+            ON tgt._hash_id = src._hash_id
+            WHEN NOT MATCHED THEN INSERT *
+            """)
+            # logger.info(f"A total of {write_df.count()} will be written to {tb_id}")
+            # write_df.writeTo(tb_name).append()
+
+        logger.info("Completed fetching to delta table process")
     except req_err.HTTPError as http_err:
         logger.error(f"HTTP Error: {http_err}")
     except Exception as e:
@@ -191,7 +210,7 @@ def bulk_load(fn: str):
         # spark.interruptAll()
 
 
-def ingest_data(mode: int):
+def ingest_data(mode: int = 1):
     """
     mode:
     1 - load latest data by fetching the link from site
@@ -207,4 +226,4 @@ def ingest_data(mode: int):
 
 
 if __name__ == "__main__":
-    ingest_data(mode=2)
+    ingest_data()
